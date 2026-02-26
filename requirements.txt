@@ -1,0 +1,37 @@
+# LLM inference
+llama-cpp-python
+litellm
+openai
+anthropic
+
+# HTML processing
+trafilatura
+beautifulsoup4
+lxml
+markdownify
+html5lib
+
+# Embeddings (for schema-semantic pruning)
+sentence-transformers
+
+# Data & ML
+scikit-learn
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn
+
+# Schema validation
+jsonschema
+
+# Dataset
+datasets
+huggingface-hub
+
+# Utilities
+tqdm
+python-dotenv
+rapidfuzz
+tiktoken

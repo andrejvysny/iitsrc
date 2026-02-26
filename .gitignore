@@ -1,0 +1,46 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Environment
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Models (large GGUF files)
+models/
+*.gguf
+
+# Raw HTML (copyrighted)
+idea-b-schema-pruning/data/raw_html/
+idea-c-quantization/data/raw_html/
+
+# Cached/regenerable processed data
+idea-b-schema-pruning/data/processed/
+idea-c-quantization/data/processed/
+
+# LaTeX build artifacts
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+
+# Jupyter
+.ipynb_checkpoints/
