@@ -1,0 +1,106 @@
+{
+  "data": {
+    "name": "An AJ Docker and Banshee Thriller",
+    "price": 26.15,
+    "currency": "USD",
+    "brand": "Gary Gerlacher",
+    "description": "AN AJ DOCKER and BANSHEE THRILLER SERIES. In AJ Docker’s world, the most dangerous part of the shift doesn’t end when the ER doors close—it follows him into the streets. Emergency physician AJ “Doc” Docker is trained to make impossible calls in seconds. But when violence, corruption, and conspiracy land on his gurney, Doc can’t walk away. Driven by a hardwired sense of justice—and backed by Banshee, his highly trained K9 partner—Doc takes on the cases no one else will touch: organized crime, serial predators, explosive threats, and powerful institutions willing to kill to keep their secrets buried. These are medical thrillers with real-world edge: high-stakes ER intensity, sharp investigative momentum, and escalating danger that pulls Doc deeper into a shadow network where every answer creates a new target. From the underworld of Houston to a mountain town with rot beneath its charm, from Las Vegas landmarks to Washington power games and Miami’s brutal current, the series moves fast, hits hard, and never lets up. Start with Book 1 for the full character arc—or jump in anywhere for a standalone, high-voltage thriller.",
+    "rating": 4.2,
+    "availability": "in_stock",
+    "specs": [
+      {
+        "key": "Author",
+        "value": "Gary Gerlacher"
+      },
+      {
+        "key": "Format",
+        "value": "Kindle Edition"
+      },
+      {
+        "key": "Series",
+        "value": "An AJ Docker and Banshee Thriller"
+      },
+      {
+        "key": "Number of Books",
+        "value": "6"
+      },
+      {
+        "key": "Genre",
+        "value": "Medical Thriller"
+      }
+    ]
+  },
+  "domain": "ecommerce",
+  "page_name": "ecom_amazon_books_001",
+  "source_url": "https://www.amazon.com/dp/B0CGJKLPY7",
+  "agreement_scores": {
+    "name": 1.0,
+    "price": 1.0,
+    "currency": 1.0,
+    "brand": 1.0,
+    "description": 1.0,
+    "rating": 1.0,
+    "availability": 1.0,
+    "specs": 1.0
+  },
+  "per_model": {
+    "openrouter/deepseek/deepseek-v3.2": {
+      "response": {
+        "name": "An AJ Docker and Banshee Thriller",
+        "price": 26.15,
+        "currency": "USD",
+        "brand": "Gary Gerlacher",
+        "description": "AN AJ DOCKER and BANSHEE THRILLER SERIES. In AJ Docker’s world, the most dangerous part of the shift doesn’t end when the ER doors close—it follows him into the streets. Emergency physician AJ “Doc” Docker is trained to make impossible calls in seconds. But when violence, corruption, and conspiracy land on his gurney, Doc can’t walk away. Driven by a hardwired sense of justice—and backed by Banshee, his highly trained K9 partner—Doc takes on the cases no one else will touch: organized crime, serial predators, explosive threats, and powerful institutions willing to kill to keep their secrets buried. These are medical thrillers with real-world edge: high-stakes ER intensity, sharp investigative momentum, and escalating danger that pulls Doc deeper into a shadow network where every answer creates a new target. From the underworld of Houston to a mountain town with rot beneath its charm, from Las Vegas landmarks to Washington power games and Miami’s brutal current, the series moves fast, hits hard, and never lets up. Start with Book 1 for the full character arc—or jump in anywhere for a standalone, high-voltage thriller.",
+        "rating": 4.2,
+        "availability": "in_stock",
+        "specs": [
+          {
+            "key": "Author",
+            "value": "Gary Gerlacher"
+          },
+          {
+            "key": "Format",
+            "value": "Kindle Edition"
+          },
+          {
+            "key": "Series",
+            "value": "An AJ Docker and Banshee Thriller"
+          },
+          {
+            "key": "Number of Books",
+            "value": "6"
+          },
+          {
+            "key": "Genre",
+            "value": "Medical Thriller"
+          }
+        ]
+      },
+      "raw_output": "{\n  \"name\": \"An AJ Docker and Banshee Thriller\",\n  \"price\": 26.15,\n  \"currency\": \"USD\",\n  \"brand\": \"Gary Gerlacher\",\n  \"description\": \"AN AJ DOCKER and BANSHEE THRILLER SERIES. In AJ Docker’s world, the most dangerous part of the shift doesn’t end when the ER doors close—it follows him into the streets. Emergency physician AJ “Doc” Docker is trained to make impossible calls in seconds. But when violence, corruption, and conspiracy land on his gurney, Doc can’t walk away. Driven by a hardwired sense of justice—and backed by Banshee, his highly trained K9 partner—Doc takes on the cases no one else will touch: organized crime, serial predators, explosive threats, and powerful institutions willing to kill to keep their secrets buried. These are medical thrillers with real-world edge: high-stakes ER intensity, sharp investigative momentum, and escalating danger that pulls Doc deeper into a shadow network where every answer creates a new target. From the underworld of Houston to a mountain town with rot beneath its charm, from Las Vegas landmarks to Washington power games and Miami’s brutal current, the series moves fast, hits hard, and never lets up. Start with Book 1 for the full character arc—or jump in anywhere for a standalone, high-voltage thriller.\",\n  \"rating\": 4.2,\n  \"availability\": \"in_stock\",\n  \"specs\": [\n    {\n      \"key\": \"Author\",\n      \"value\": \"Gary Gerlacher\"\n    },\n    {\n      \"key\": \"Format\",\n      \"value\": \"Kindle Edition\"\n    },\n    {\n      \"key\": \"Series\",\n      \"value\": \"An AJ Docker and Banshee Thriller\"\n    },\n    {\n      \"key\": \"Number of Books\",\n      \"value\": \"6\"\n    },\n    {\n      \"key\": \"Genre\",\n      \"value\": \"Medical Thriller\"\n    }\n  ]\n}",
+      "execution_time": 50.92,
+      "tokens": 32942,
+      "cost": 0.009275,
+      "error": null
+    },
+    "qwen-2.5-72b-instruct": {
+      "response": null,
+      "raw_output": "{\n  \"name\": \"An AJ Docker and Banshee Thriller (6 book series)\",\n  \"price\": 26.15,\n  \"currency\": \"USD\",\n  \"brand\": \"Gary Gerlacher\",\n  \"description\": \"In AJ Docker’s world, the most dangerous part of the shift doesn’t end when the ER doors close—it follows him into the streets. Emergency physician AJ “Doc” Docker is trained to make impossible calls in seconds. But when violence, corruption, and conspiracy land on his gurney, Doc can’t walk away. Dr",
+      "execution_time": 9.67,
+      "tokens": 32768,
+      "cost": 0.0,
+      "error": null
+    }
+  },
+  "escalated_fields": [],
+  "validation": {
+    "schema_valid": true,
+    "rules_passed": true,
+    "source_grounded": true,
+    "hallucination_rate": 0.286,
+    "issues": []
+  },
+  "json_ld": {},
+  "source_text_length": 98569,
+  "total_execution_time": 61.96,
+  "total_cost_estimate": 0.009275
+}

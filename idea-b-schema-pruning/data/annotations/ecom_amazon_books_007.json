@@ -1,0 +1,188 @@
+{
+  "data": {
+    "name": "The Correspondent: A Novel",
+    "price": 17.33,
+    "currency": "USD",
+    "brand": "Random House Audio",
+    "description": "An intimate novel about the transformative power of the written word and the beauty of slowing down to reconnect with the people we love. Told through letters, it follows Sybil Van Antwerp, a woman in her seventies, as she confronts her past and seeks forgiveness.",
+    "rating": 4.6,
+    "availability": "in_stock",
+    "specs": [
+      {
+        "key": "Author",
+        "value": "Virginia Evans"
+      },
+      {
+        "key": "Narrator",
+        "value": "Maggi-Meg Reed, Jane Oppenheimer, Carly Robins, Jeff Ebner, David Pittu, Chris Andrew Ciulla, Mark Bramhall, Petrea Burchard, Robert Petkoff, Kimberly Farr, Cerris Morgan-Moyer, Peter Ganim, Jade Wheeler, Various"
+      },
+      {
+        "key": "Listening Length",
+        "value": "8 hours and 36 minutes"
+      },
+      {
+        "key": "Publisher",
+        "value": "Random House Audio"
+      },
+      {
+        "key": "Program Type",
+        "value": "Audiobook"
+      },
+      {
+        "key": "Version",
+        "value": "Unabridged"
+      },
+      {
+        "key": "Language",
+        "value": "English"
+      },
+      {
+        "key": "ASIN",
+        "value": "B0DG3M884R"
+      },
+      {
+        "key": "Format",
+        "value": "Audible Audiobook"
+      }
+    ]
+  },
+  "domain": "ecommerce",
+  "page_name": "ecom_amazon_books_007",
+  "source_url": "https://www.amazon.com/Audible-The-Correspondent-A-Novel/dp/B0DG3M884R",
+  "agreement_scores": {
+    "name": 1.0,
+    "price": 0.5,
+    "currency": 1.0,
+    "brand": 0.5,
+    "description": 0.5,
+    "rating": 1.0,
+    "availability": 1.0,
+    "specs": 1.0
+  },
+  "per_model": {
+    "openrouter/deepseek/deepseek-v3.2": {
+      "response": {
+        "name": "The Correspondent: A Novel",
+        "price": 13.99,
+        "currency": "USD",
+        "brand": "Random House Audio",
+        "description": "An intimate novel about the transformative power of the written word and the beauty of slowing down to reconnect with the people we love. Told through letters, it follows Sybil Van Antwerp, a woman in her seventies, as she confronts her past and seeks forgiveness.",
+        "rating": 4.6,
+        "availability": "in_stock",
+        "specs": [
+          {
+            "key": "Author",
+            "value": "Virginia Evans"
+          },
+          {
+            "key": "Narrator",
+            "value": "Maggi-Meg Reed, Jane Oppenheimer, Carly Robins, Jeff Ebner, David Pittu, Chris Andrew Ciulla, Mark Bramhall, Petrea Burchard, Robert Petkoff, Kimberly Farr, Cerris Morgan-Moyer, Peter Ganim, Jade Wheeler, Various"
+          },
+          {
+            "key": "Listening Length",
+            "value": "8 hours and 36 minutes"
+          },
+          {
+            "key": "Publisher",
+            "value": "Random House Audio"
+          },
+          {
+            "key": "Program Type",
+            "value": "Audiobook"
+          },
+          {
+            "key": "Version",
+            "value": "Unabridged"
+          },
+          {
+            "key": "Language",
+            "value": "English"
+          },
+          {
+            "key": "ASIN",
+            "value": "B0DG3M884R"
+          },
+          {
+            "key": "Format",
+            "value": "Audible Audiobook"
+          }
+        ]
+      },
+      "raw_output": "{\n  \"name\": \"The Correspondent: A Novel\",\n  \"price\": 13.99,\n  \"currency\": \"USD\",\n  \"brand\": \"Random House Audio\",\n  \"description\": \"An intimate novel about the transformative power of the written word and the beauty of slowing down to reconnect with the people we love. Told through letters, it follows Sybil Van Antwerp, a woman in her seventies, as she confronts her past and seeks forgiveness.\",\n  \"rating\": 4.6,\n  \"availability\": \"in_stock\",\n  \"specs\": [\n    {\n      \"key\": \"Author\",\n      \"value\": \"Virginia Evans\"\n    },\n    {\n      \"key\": \"Narrator\",\n      \"value\": \"Maggi-Meg Reed, Jane Oppenheimer, Carly Robins, Jeff Ebner, David Pittu, Chris Andrew Ciulla, Mark Bramhall, Petrea Burchard, Robert Petkoff, Kimberly Farr, Cerris Morgan-Moyer, Peter Ganim, Jade Wheeler, Various\"\n    },\n    {\n      \"key\": \"Listening Length\",\n      \"value\": \"8 hours and 36 minutes\"\n    },\n    {\n      \"key\": \"Publisher\",\n      \"value\": \"Random House Audio\"\n    },\n    {\n      \"key\": \"Program Type\",\n      \"value\": \"Audiobook\"\n    },\n    {\n      \"key\": \"Version\",\n      \"value\": \"Unabridged\"\n    },\n    {\n      \"key\": \"Language\",\n      \"value\": \"English\"\n    },\n    {\n      \"key\": \"ASIN\",\n      \"value\": \"B0DG3M884R\"\n    },\n    {\n      \"key\": \"Format\",\n      \"value\": \"Audible Audiobook\"\n    }\n  ]\n}",
+      "execution_time": 36.98,
+      "tokens": 10815,
+      "cost": 0.003055,
+      "error": null
+    },
+    "qwen-2.5-72b-instruct": {
+      "response": {
+        "name": "The Correspondent: A Novel",
+        "price": 17.33,
+        "currency": "USD",
+        "brand": null,
+        "description": "A novel about the transformative power of the written word and the beauty of slowing down to reconnect with the people we love. The story is told through letters and emails, focusing on the life of Sybil Van Antwerp, a woman who uses letters to make sense of the world and her place in it.",
+        "rating": 4.6,
+        "availability": "in_stock",
+        "specs": [
+          {
+            "key": "Author",
+            "value": "Virginia Evans"
+          },
+          {
+            "key": "Narrator",
+            "value": "Maggi-Meg Reed, Jane Oppenheimer, Carly Robins, Jeff Ebner, David Pittu, Chris Andrew Ciulla, Mark Bramhall, Petrea Burchard, Robert Petkoff, Kimberly Farr, Cerris Morgan-Moyer, Peter Ganim, Jade Wheeler, Various"
+          },
+          {
+            "key": "Publisher",
+            "value": "Random House Audio"
+          },
+          {
+            "key": "Listening Length",
+            "value": "8 hours and 36 minutes"
+          },
+          {
+            "key": "Release Date",
+            "value": "April 29, 2025"
+          },
+          {
+            "key": "Program Type",
+            "value": "Audiobook"
+          },
+          {
+            "key": "Version",
+            "value": "Unabridged"
+          },
+          {
+            "key": "Language",
+            "value": "English"
+          },
+          {
+            "key": "Best Sellers Rank",
+            "value": "#6 in Audible Books & Originals, #1 in Family Life Fiction (Books), #1 in Epistolary Fiction (Audible Books & Originals), #1 in Women's Domestic Life Fiction"
+          }
+        ]
+      },
+      "raw_output": "{\n  \"name\": \"The Correspondent: A Novel\",\n  \"price\": 17.33,\n  \"currency\": \"USD\",\n  \"brand\": null,\n  \"description\": \"A novel about the transformative power of the written word and the beauty of slowing down to reconnect with the people we love. The story is told through letters and emails, focusing on the life of Sybil Van Antwerp, a woman who uses letters to make sense of the world and her place in it.\",\n  \"rating\": 4.6,\n  \"availability\": \"in_stock\",\n  \"specs\": [\n    {\n      \"key\": \"Author\",\n      \"value\": \"Virginia Evans\"\n    },\n    {\n      \"key\": \"Narrator\",\n      \"value\": \"Maggi-Meg Reed, Jane Oppenheimer, Carly Robins, Jeff Ebner, David Pittu, Chris Andrew Ciulla, Mark Bramhall, Petrea Burchard, Robert Petkoff, Kimberly Farr, Cerris Morgan-Moyer, Peter Ganim, Jade Wheeler, Various\"\n    },\n    {\n      \"key\": \"Publisher\",\n      \"value\": \"Random House Audio\"\n    },\n    {\n      \"key\": \"Listening Length\",\n      \"value\": \"8 hours and 36 minutes\"\n    },\n    {\n      \"key\": \"Release Date\",\n      \"value\": \"April 29, 2025\"\n    },\n    {\n      \"key\": \"Program Type\",\n      \"value\": \"Audiobook\"\n    },\n    {\n      \"key\": \"Version\",\n      \"value\": \"Unabridged\"\n    },\n    {\n      \"key\": \"Language\",\n      \"value\": \"English\"\n    },\n    {\n      \"key\": \"Best Sellers Rank\",\n      \"value\": \"#6 in Audible Books & Originals, #1 in Family Life Fiction (Books), #1 in Epistolary Fiction (Audible Books & Originals), #1 in Women's Domestic Life Fiction\"\n    }\n  ]\n}",
+      "execution_time": 14.39,
+      "tokens": 11235,
+      "cost": 0.0,
+      "error": null
+    }
+  },
+  "escalated_fields": [
+    "price",
+    "brand",
+    "description"
+  ],
+  "validation": {
+    "schema_valid": true,
+    "rules_passed": true,
+    "source_grounded": true,
+    "hallucination_rate": 0.143,
+    "issues": []
+  },
+  "json_ld": {},
+  "source_text_length": 26636,
+  "total_execution_time": 58.48,
+  "total_cost_estimate": 0.026895
+}

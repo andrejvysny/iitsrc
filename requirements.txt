@@ -30,6 +30,13 @@ jsonschema
 datasets
 huggingface-hub
 
+# Web crawling
+playwright
+playwright-stealth
+
+# Async HTTP
+aiohttp
+
 # Utilities
 tqdm
 python-dotenv

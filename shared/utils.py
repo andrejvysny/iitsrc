@@ -24,6 +24,15 @@ def timer() -> Generator[dict, None, None]:
         result["elapsed"] = time.perf_counter() - start
 
 
+def _unwrap_to_dict(parsed: object) -> dict | None:
+    """Unwrap parsed JSON to dict: single-element lists → dict, reject non-dicts."""
+    if isinstance(parsed, dict):
+        return parsed
+    if isinstance(parsed, list) and len(parsed) == 1 and isinstance(parsed[0], dict):
+        return parsed[0]
+    return None
+
+
 def parse_json_safe(text: str) -> dict | None:
     """Extract and parse JSON from LLM output, handling common issues.
 
@@ -37,7 +46,9 @@ def parse_json_safe(text: str) -> dict | None:
 
     # Try direct parse
     try:
-        return json.loads(text)
+        result = _unwrap_to_dict(json.loads(text))
+        if result is not None:
+            return result
     except json.JSONDecodeError:
         pass
 
@@ -45,7 +56,9 @@ def parse_json_safe(text: str) -> dict | None:
     match = re.search(r"```(?:json)?\s*\n?(.*?)\n?```", text, re.DOTALL)
     if match:
         try:
-            return json.loads(match.group(1).strip())
+            result = _unwrap_to_dict(json.loads(match.group(1).strip()))
+            if result is not None:
+                return result
         except json.JSONDecodeError:
             pass
 
@@ -53,7 +66,9 @@ def parse_json_safe(text: str) -> dict | None:
     match = re.search(r"\{.*\}", text, re.DOTALL)
     if match:
         try:
-            return json.loads(match.group(0))
+            result = _unwrap_to_dict(json.loads(match.group(0)))
+            if result is not None:
+                return result
         except json.JSONDecodeError:
             pass
 

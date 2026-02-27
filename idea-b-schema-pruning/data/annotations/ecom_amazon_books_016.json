@@ -1,0 +1,199 @@
+{
+  "data": {
+    "name": "The Widow: A Novel",
+    "price": 20.48,
+    "currency": "USD",
+    "brand": "Random House Audio",
+    "description": "Simon Latch is a lawyer in rural Virginia, making just enough to pay his bills while his marriage slowly falls apart. Then into his office walks Eleanor Barnett, an elderly widow in need of a new will. Apparently, her husband left her a small fortune, and no one knows about it. Once he hooks the richest client of his career, Simon works quietly to keep her wealth under the radar. But soon her story begins to crack. When she is hospitalized after a car accident, Simon realizes that nothing is as it seems, and he finds himself on trial for a crime he swears he didn’t commit: murder. Simon knows he’s innocent. But he also knows the circumstantial evidence is against him, and he could spend the rest of his life behind bars. To save himself, he must find the real killer….",
+    "rating": 4.4,
+    "availability": "in_stock",
+    "specs": [
+      {
+        "key": "Listening Length",
+        "value": "14 hours and 23 minutes"
+      },
+      {
+        "key": "Author",
+        "value": "John Grisham"
+      },
+      {
+        "key": "Narrator",
+        "value": "Michael Beck"
+      },
+      {
+        "key": "Whispersync for Voice",
+        "value": "Ready"
+      },
+      {
+        "key": "Audible.com Release Date",
+        "value": "October 21, 2025"
+      },
+      {
+        "key": "Publisher",
+        "value": "Random House Audio"
+      },
+      {
+        "key": "Program Type",
+        "value": "Audiobook"
+      },
+      {
+        "key": "Version",
+        "value": "Unabridged"
+      },
+      {
+        "key": "Language",
+        "value": "English"
+      },
+      {
+        "key": "ASIN",
+        "value": "B0F1BGY2PF"
+      }
+    ]
+  },
+  "domain": "ecommerce",
+  "page_name": "ecom_amazon_books_016",
+  "source_url": "https://www.amazon.com/Audible-The-Widow-A-Novel/dp/B0F1BGY2PF",
+  "agreement_scores": {
+    "name": 1.0,
+    "price": 1.0,
+    "currency": 1.0,
+    "brand": 0.5,
+    "description": 0.5,
+    "rating": 1.0,
+    "availability": 1.0,
+    "specs": 1.0
+  },
+  "per_model": {
+    "openrouter/deepseek/deepseek-v3.2": {
+      "response": {
+        "name": "The Widow: A Novel",
+        "price": 20.48,
+        "currency": "USD",
+        "brand": "Random House Audio",
+        "description": "Simon Latch is a lawyer in rural Virginia, making just enough to pay his bills while his marriage slowly falls apart. Then into his office walks Eleanor Barnett, an elderly widow in need of a new will. Apparently, her husband left her a small fortune, and no one knows about it. Once he hooks the richest client of his career, Simon works quietly to keep her wealth under the radar. But soon her story begins to crack. When she is hospitalized after a car accident, Simon realizes that nothing is as it seems, and he finds himself on trial for a crime he swears he didn’t commit: murder. Simon knows he’s innocent. But he also knows the circumstantial evidence is against him, and he could spend the rest of his life behind bars. To save himself, he must find the real killer….",
+        "rating": 4.4,
+        "availability": "in_stock",
+        "specs": [
+          {
+            "key": "Listening Length",
+            "value": "14 hours and 23 minutes"
+          },
+          {
+            "key": "Author",
+            "value": "John Grisham"
+          },
+          {
+            "key": "Narrator",
+            "value": "Michael Beck"
+          },
+          {
+            "key": "Whispersync for Voice",
+            "value": "Ready"
+          },
+          {
+            "key": "Audible.com Release Date",
+            "value": "October 21, 2025"
+          },
+          {
+            "key": "Publisher",
+            "value": "Random House Audio"
+          },
+          {
+            "key": "Program Type",
+            "value": "Audiobook"
+          },
+          {
+            "key": "Version",
+            "value": "Unabridged"
+          },
+          {
+            "key": "Language",
+            "value": "English"
+          },
+          {
+            "key": "ASIN",
+            "value": "B0F1BGY2PF"
+          }
+        ]
+      },
+      "raw_output": "{\n  \"name\": \"The Widow: A Novel\",\n  \"price\": 20.48,\n  \"currency\": \"USD\",\n  \"brand\": \"Random House Audio\",\n  \"description\": \"Simon Latch is a lawyer in rural Virginia, making just enough to pay his bills while his marriage slowly falls apart. Then into his office walks Eleanor Barnett, an elderly widow in need of a new will. Apparently, her husband left her a small fortune, and no one knows about it. Once he hooks the richest client of his career, Simon works quietly to keep her wealth under the radar. But soon her story begins to crack. When she is hospitalized after a car accident, Simon realizes that nothing is as it seems, and he finds himself on trial for a crime he swears he didn’t commit: murder. Simon knows he’s innocent. But he also knows the circumstantial evidence is against him, and he could spend the rest of his life behind bars. To save himself, he must find the real killer….\",\n  \"rating\": 4.4,\n  \"availability\": \"in_stock\",\n  \"specs\": [\n    {\n      \"key\": \"Listening Length\",\n      \"value\": \"14 hours and 23 minutes\"\n    },\n    {\n      \"key\": \"Author\",\n      \"value\": \"John Grisham\"\n    },\n    {\n      \"key\": \"Narrator\",\n      \"value\": \"Michael Beck\"\n    },\n    {\n      \"key\": \"Whispersync for Voice\",\n      \"value\": \"Ready\"\n    },\n    {\n      \"key\": \"Audible.com Release Date\",\n      \"value\": \"October 21, 2025\"\n    },\n    {\n      \"key\": \"Publisher\",\n      \"value\": \"Random House Audio\"\n    },\n    {\n      \"key\": \"Program Type\",\n      \"value\": \"Audiobook\"\n    },\n    {\n      \"key\": \"Version\",\n      \"value\": \"Unabridged\"\n    },\n    {\n      \"key\": \"Language\",\n      \"value\": \"English\"\n    },\n    {\n      \"key\": \"ASIN\",\n      \"value\": \"B0F1BGY2PF\"\n    }\n  ]\n}",
+      "execution_time": 32.78,
+      "tokens": 9759,
+      "cost": 0.00277,
+      "error": null
+    },
+    "qwen-2.5-72b-instruct": {
+      "response": {
+        "name": "The Widow: A Novel",
+        "price": 20.48,
+        "currency": "USD",
+        "brand": null,
+        "description": "A legal thriller by John Grisham about a small-time lawyer accused of murder who must find the real killer to clear his name.",
+        "rating": 4.4,
+        "availability": "in_stock",
+        "specs": [
+          {
+            "key": "Author",
+            "value": "John Grisham"
+          },
+          {
+            "key": "Narrator",
+            "value": "Michael Beck"
+          },
+          {
+            "key": "Publisher",
+            "value": "Random House Audio"
+          },
+          {
+            "key": "Listening Length",
+            "value": "14 hours and 23 minutes"
+          },
+          {
+            "key": "Audible.com Release Date",
+            "value": "October 21, 2025"
+          },
+          {
+            "key": "Program Type",
+            "value": "Audiobook"
+          },
+          {
+            "key": "Version",
+            "value": "Unabridged"
+          },
+          {
+            "key": "Language",
+            "value": "English"
+          },
+          {
+            "key": "ASIN",
+            "value": "B0F1BGY2PF"
+          },
+          {
+            "key": "Best Sellers Rank",
+            "value": "#33 in Audible Books & Originals, #1 in Legal Thrillers (Audible Books & Originals), #1 in Legal Thrillers (Books), #6 in Suspense (Audible Books & Originals)"
+          }
+        ]
+      },
+      "raw_output": "{\n  \"name\": \"The Widow: A Novel\",\n  \"price\": 20.48,\n  \"currency\": \"USD\",\n  \"brand\": null,\n  \"description\": \"A legal thriller by John Grisham about a small-time lawyer accused of murder who must find the real killer to clear his name.\",\n  \"rating\": 4.4,\n  \"availability\": \"in_stock\",\n  \"specs\": [\n    {\n      \"key\": \"Author\",\n      \"value\": \"John Grisham\"\n    },\n    {\n      \"key\": \"Narrator\",\n      \"value\": \"Michael Beck\"\n    },\n    {\n      \"key\": \"Publisher\",\n      \"value\": \"Random House Audio\"\n    },\n    {\n      \"key\": \"Listening Length\",\n      \"value\": \"14 hours and 23 minutes\"\n    },\n    {\n      \"key\": \"Audible.com Release Date\",\n      \"value\": \"October 21, 2025\"\n    },\n    {\n      \"key\": \"Program Type\",\n      \"value\": \"Audiobook\"\n    },\n    {\n      \"key\": \"Version\",\n      \"value\": \"Unabridged\"\n    },\n    {\n      \"key\": \"Language\",\n      \"value\": \"English\"\n    },\n    {\n      \"key\": \"ASIN\",\n      \"value\": \"B0F1BGY2PF\"\n    },\n    {\n      \"key\": \"Best Sellers Rank\",\n      \"value\": \"#33 in Audible Books & Originals, #1 in Legal Thrillers (Audible Books & Originals), #1 in Legal Thrillers (Books), #6 in Suspense (Audible Books & Originals)\"\n    }\n  ]\n}",
+      "execution_time": 11.48,
+      "tokens": 9850,
+      "cost": 0.0,
+      "error": null
+    }
+  },
+  "escalated_fields": [
+    "brand",
+    "description"
+  ],
+  "validation": {
+    "schema_valid": true,
+    "rules_passed": true,
+    "source_grounded": true,
+    "hallucination_rate": 0.143,
+    "issues": []
+  },
+  "json_ld": {},
+  "source_text_length": 21792,
+  "total_execution_time": 63.02,
+  "total_cost_estimate": 0.02035
+}

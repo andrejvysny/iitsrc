@@ -1,0 +1,182 @@
+{
+  "data": {
+    "name": "The Lost Bookshop: The most charming and uplifting novel for 2025 and the perfect gift for book lovers!",
+    "price": 10.0,
+    "currency": "USD",
+    "brand": null,
+    "description": "The Echo of Old Books meets The Lost Apothecary in this evocative and charming novel full of mystery and secrets. \u0018The thing about books,\u0019 she said \u0018is that they help you to imagine a life bigger and better than you could ever dream of.\u0019 On a quiet street in Dublin, a lost bookshop is waiting to be found\u0018 For too long, Opaline, Martha and Henry have been the side characters in their own lives. But when a vanishing bookshop casts its spell, these three unsuspecting strangers will discover that their own stories are every bit as extraordinary as the ones found in the pages of their beloved books. And by unlocking the secrets of the shelves, they find themselves transported to a world of wonder\u0018 where nothing is as it seems.",
+    "rating": 4.4,
+    "availability": "in_stock",
+    "specs": [
+      {
+        "key": "Publisher",
+        "value": "One More Chapter"
+      },
+      {
+        "key": "Publication date",
+        "value": "November 7, 2023"
+      },
+      {
+        "key": "Language",
+        "value": "English"
+      },
+      {
+        "key": "Print length",
+        "value": "448 pages"
+      },
+      {
+        "key": "ISBN-10",
+        "value": "0008609217"
+      },
+      {
+        "key": "ISBN-13",
+        "value": "978-0008609214"
+      },
+      {
+        "key": "Item Weight",
+        "value": "10.4 ounces"
+      },
+      {
+        "key": "Dimensions",
+        "value": "5.08 x 1.26 x 7.8 inches"
+      }
+    ]
+  },
+  "domain": "ecommerce",
+  "page_name": "ecom_amazon_books_003",
+  "source_url": "https://www.amazon.com/The-Lost-Bookshop/dp/0008609217",
+  "agreement_scores": {
+    "name": 1.0,
+    "price": 1.0,
+    "currency": 1.0,
+    "brand": 1.0,
+    "description": 0.5,
+    "rating": 1.0,
+    "availability": 1.0,
+    "specs": 1.0
+  },
+  "per_model": {
+    "openrouter/deepseek/deepseek-v3.2": {
+      "response": {
+        "name": "The Lost Bookshop: The most charming and uplifting novel for 2025 and the perfect gift for book lovers!",
+        "price": 10.0,
+        "currency": "USD",
+        "brand": null,
+        "description": "The Echo of Old Books meets The Lost Apothecary in this evocative and charming novel full of mystery and secrets. ‘The thing about books,’ she said ‘is that they help you to imagine a life bigger and better than you could ever dream of.’ On a quiet street in Dublin, a lost bookshop is waiting to be found… For too long, Opaline, Martha and Henry have been the side characters in their own lives. But when a vanishing bookshop casts its spell, these three unsuspecting strangers will discover that their own stories are every bit as extraordinary as the ones found in the pages of their beloved books. And by unlocking the secrets of the shelves, they find themselves transported to a world of wonder… where nothing is as it seems.",
+        "rating": 4.4,
+        "availability": "in_stock",
+        "specs": [
+          {
+            "key": "Publisher",
+            "value": "One More Chapter"
+          },
+          {
+            "key": "Publication date",
+            "value": "November 7, 2023"
+          },
+          {
+            "key": "Language",
+            "value": "English"
+          },
+          {
+            "key": "Print length",
+            "value": "448 pages"
+          },
+          {
+            "key": "ISBN-10",
+            "value": "0008609217"
+          },
+          {
+            "key": "ISBN-13",
+            "value": "978-0008609214"
+          },
+          {
+            "key": "Item Weight",
+            "value": "10.4 ounces"
+          },
+          {
+            "key": "Dimensions",
+            "value": "5.08 x 1.26 x 7.8 inches"
+          }
+        ]
+      },
+      "raw_output": "{\n  \"name\": \"The Lost Bookshop: The most charming and uplifting novel for 2025 and the perfect gift for book lovers!\",\n  \"price\": 10.00,\n  \"currency\": \"USD\",\n  \"brand\": null,\n  \"description\": \"The Echo of Old Books meets The Lost Apothecary in this evocative and charming novel full of mystery and secrets. ‘The thing about books,’ she said ‘is that they help you to imagine a life bigger and better than you could ever dream of.’ On a quiet street in Dublin, a lost bookshop is waiting to be found… For too long, Opaline, Martha and Henry have been the side characters in their own lives. But when a vanishing bookshop casts its spell, these three unsuspecting strangers will discover that their own stories are every bit as extraordinary as the ones found in the pages of their beloved books. And by unlocking the secrets of the shelves, they find themselves transported to a world of wonder… where nothing is as it seems.\",\n  \"rating\": 4.4,\n  \"availability\": \"in_stock\",\n  \"specs\": [\n    {\n      \"key\": \"Publisher\",\n      \"value\": \"One More Chapter\"\n    },\n    {\n      \"key\": \"Publication date\",\n      \"value\": \"November 7, 2023\"\n    },\n    {\n      \"key\": \"Language\",\n      \"value\": \"English\"\n    },\n    {\n      \"key\": \"Print length\",\n      \"value\": \"448 pages\"\n    },\n    {\n      \"key\": \"ISBN-10\",\n      \"value\": \"0008609217\"\n    },\n    {\n      \"key\": \"ISBN-13\",\n      \"value\": \"978-0008609214\"\n    },\n    {\n      \"key\": \"Item Weight\",\n      \"value\": \"10.4 ounces\"\n    },\n    {\n      \"key\": \"Dimensions\",\n      \"value\": \"5.08 x 1.26 x 7.8 inches\"\n    }\n  ]\n}",
+      "execution_time": 31.77,
+      "tokens": 12703,
+      "cost": 0.00359,
+      "error": null
+    },
+    "qwen-2.5-72b-instruct": {
+      "response": {
+        "name": "The Lost Bookshop: The most charming and uplifting novel for 2025 and the perfect gift for book lovers!",
+        "price": 10.0,
+        "currency": "USD",
+        "brand": null,
+        "description": "The most charming and uplifting novel for 2025 and the perfect gift for book lovers! A heartwarming story with strong female characters and an engaging pace that captivates from the beginning. The writing is beautifully crafted, and customers appreciate its magical elements and emotional depth. It is a beautiful tale of love, with themes of love and loss.",
+        "rating": 4.4,
+        "availability": "in_stock",
+        "specs": [
+          {
+            "key": "Author",
+            "value": "Evie Woods"
+          },
+          {
+            "key": "Publication Date",
+            "value": "November 7, 2023"
+          },
+          {
+            "key": "Language",
+            "value": "English"
+          },
+          {
+            "key": "Print Length",
+            "value": "448 pages"
+          },
+          {
+            "key": "ISBN-10",
+            "value": "0008609217"
+          },
+          {
+            "key": "ISBN-13",
+            "value": "978-0008609214"
+          },
+          {
+            "key": "Item Weight",
+            "value": "10.4 ounces"
+          },
+          {
+            "key": "Dimensions",
+            "value": "5.08 x 1.26 x 7.8 inches"
+          },
+          {
+            "key": "Best Sellers Rank",
+            "value": "#229 in Books"
+          },
+          {
+            "key": "Genres",
+            "value": "Magical Realism, Contemporary Romance, Women's Domestic Life Fiction"
+          }
+        ]
+      },
+      "raw_output": "{\n  \"name\": \"The Lost Bookshop: The most charming and uplifting novel for 2025 and the perfect gift for book lovers!\",\n  \"price\": 10.00,\n  \"currency\": \"USD\",\n  \"brand\": null,\n  \"description\": \"The most charming and uplifting novel for 2025 and the perfect gift for book lovers! A heartwarming story with strong female characters and an engaging pace that captivates from the beginning. The writing is beautifully crafted, and customers appreciate its magical elements and emotional depth. It is a beautiful tale of love, with themes of love and loss.\",\n  \"rating\": 4.4,\n  \"availability\": \"in_stock\",\n  \"specs\": [\n    {\n      \"key\": \"Author\",\n      \"value\": \"Evie Woods\"\n    },\n    {\n      \"key\": \"Publication Date\",\n      \"value\": \"November 7, 2023\"\n    },\n    {\n      \"key\": \"Language\",\n      \"value\": \"English\"\n    },\n    {\n      \"key\": \"Print Length\",\n      \"value\": \"448 pages\"\n    },\n    {\n      \"key\": \"ISBN-10\",\n      \"value\": \"0008609217\"\n    },\n    {\n      \"key\": \"ISBN-13\",\n      \"value\": \"978-0008609214\"\n    },\n    {\n      \"key\": \"Item Weight\",\n      \"value\": \"10.4 ounces\"\n    },\n    {\n      \"key\": \"Dimensions\",\n      \"value\": \"5.08 x 1.26 x 7.8 inches\"\n    },\n    {\n      \"key\": \"Best Sellers Rank\",\n      \"value\": \"#229 in Books\"\n    },\n    {\n      \"key\": \"Genres\",\n      \"value\": \"Magical Realism, Contemporary Romance, Women's Domestic Life Fiction\"\n    }\n  ]\n}",
+      "execution_time": 13.77,
+      "tokens": 12987,
+      "cost": 0.0,
+      "error": null
+    }
+  },
+  "escalated_fields": [
+    "description"
+  ],
+  "validation": {
+    "schema_valid": true,
+    "rules_passed": true,
+    "source_grounded": false,
+    "hallucination_rate": 0.333,
+    "issues": []
+  },
+  "json_ld": {},
+  "source_text_length": 31028,
+  "total_execution_time": 91.06,
+  "total_cost_estimate": 0.013587
+}

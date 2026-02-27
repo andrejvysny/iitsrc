@@ -1,0 +1,202 @@
+{
+  "data": {
+    "name": "The Lost Bookshop",
+    "price": 20.93,
+    "currency": "USD",
+    "brand": "One More Chapter",
+    "description": "The Echo of Old Books meets The Lost Apothecary in this evocative and charming novel full of mystery and secrets. ‘The thing about books,’ she said ‘is that they help you to imagine a life bigger and better than you could ever dream of.’ On a quiet street in Dublin, a lost bookshop is waiting to be found… For too long, Opaline, Martha and Henry have been the side characters in their own lives. But when a vanishing bookshop casts its spell, these three unsuspecting strangers will discover that their own stories are every bit as extraordinary as the ones found in the pages of their beloved books. And by unlocking the secrets of the shelves, they find themselves transported to a world of wonder… where nothing is as it seems.",
+    "rating": 4.4,
+    "availability": "in_stock",
+    "specs": [
+      {
+        "key": "Listening Length",
+        "value": "12 hours"
+      },
+      {
+        "key": "Author",
+        "value": "Evie Woods"
+      },
+      {
+        "key": "Narrator",
+        "value": "Avena Mansergh-Wallace, Olivia Mace, Nick Biadon"
+      },
+      {
+        "key": "Whispersync for Voice",
+        "value": "Ready"
+      },
+      {
+        "key": "Audible.com Release Date",
+        "value": "June 22, 2023"
+      },
+      {
+        "key": "Publisher",
+        "value": "One More Chapter"
+      },
+      {
+        "key": "Program Type",
+        "value": "Audiobook"
+      },
+      {
+        "key": "Version",
+        "value": "Unabridged"
+      },
+      {
+        "key": "Language",
+        "value": "English"
+      },
+      {
+        "key": "ASIN",
+        "value": "B0BZJKXS33"
+      }
+    ]
+  },
+  "domain": "ecommerce",
+  "page_name": "ecom_amazon_books_004",
+  "source_url": "https://www.amazon.com/Audible-The-Lost-Bookshop/dp/B0BZJKXS33",
+  "agreement_scores": {
+    "name": 1.0,
+    "price": 1.0,
+    "currency": 1.0,
+    "brand": 0.5,
+    "description": 1.0,
+    "rating": 1.0,
+    "availability": 1.0,
+    "specs": 1.0
+  },
+  "per_model": {
+    "openrouter/deepseek/deepseek-v3.2": {
+      "response": {
+        "name": "The Lost Bookshop",
+        "price": 20.93,
+        "currency": "USD",
+        "brand": "One More Chapter",
+        "description": "The Echo of Old Books meets The Lost Apothecary in this evocative and charming novel full of mystery and secrets. ‘The thing about books,’ she said ‘is that they help you to imagine a life bigger and better than you could ever dream of.’ On a quiet street in Dublin, a lost bookshop is waiting to be found… For too long, Opaline, Martha and Henry have been the side characters in their own lives. But when a vanishing bookshop casts its spell, these three unsuspecting strangers will discover that their own stories are every bit as extraordinary as the ones found in the pages of their beloved books. And by unlocking the secrets of the shelves, they find themselves transported to a world of wonder… where nothing is as it seems.",
+        "rating": 4.4,
+        "availability": "in_stock",
+        "specs": [
+          {
+            "key": "Listening Length",
+            "value": "12 hours"
+          },
+          {
+            "key": "Author",
+            "value": "Evie Woods"
+          },
+          {
+            "key": "Narrator",
+            "value": "Avena Mansergh-Wallace, Olivia Mace, Nick Biadon"
+          },
+          {
+            "key": "Whispersync for Voice",
+            "value": "Ready"
+          },
+          {
+            "key": "Audible.com Release Date",
+            "value": "June 22, 2023"
+          },
+          {
+            "key": "Publisher",
+            "value": "One More Chapter"
+          },
+          {
+            "key": "Program Type",
+            "value": "Audiobook"
+          },
+          {
+            "key": "Version",
+            "value": "Unabridged"
+          },
+          {
+            "key": "Language",
+            "value": "English"
+          },
+          {
+            "key": "ASIN",
+            "value": "B0BZJKXS33"
+          }
+        ]
+      },
+      "raw_output": "{\n  \"name\": \"The Lost Bookshop\",\n  \"price\": 20.93,\n  \"currency\": \"USD\",\n  \"brand\": \"One More Chapter\",\n  \"description\": \"The Echo of Old Books meets The Lost Apothecary in this evocative and charming novel full of mystery and secrets. ‘The thing about books,’ she said ‘is that they help you to imagine a life bigger and better than you could ever dream of.’ On a quiet street in Dublin, a lost bookshop is waiting to be found… For too long, Opaline, Martha and Henry have been the side characters in their own lives. But when a vanishing bookshop casts its spell, these three unsuspecting strangers will discover that their own stories are every bit as extraordinary as the ones found in the pages of their beloved books. And by unlocking the secrets of the shelves, they find themselves transported to a world of wonder… where nothing is as it seems.\",\n  \"rating\": 4.4,\n  \"availability\": \"in_stock\",\n  \"specs\": [\n    {\n      \"key\": \"Listening Length\",\n      \"value\": \"12 hours\"\n    },\n    {\n      \"key\": \"Author\",\n      \"value\": \"Evie Woods\"\n    },\n    {\n      \"key\": \"Narrator\",\n      \"value\": \"Avena Mansergh-Wallace, Olivia Mace, Nick Biadon\"\n    },\n    {\n      \"key\": \"Whispersync for Voice\",\n      \"value\": \"Ready\"\n    },\n    {\n      \"key\": \"Audible.com Release Date\",\n      \"value\": \"June 22, 2023\"\n    },\n    {\n      \"key\": \"Publisher\",\n      \"value\": \"One More Chapter\"\n    },\n    {\n      \"key\": \"Program Type\",\n      \"value\": \"Audiobook\"\n    },\n    {\n      \"key\": \"Version\",\n      \"value\": \"Unabridged\"\n    },\n    {\n      \"key\": \"Language\",\n      \"value\": \"English\"\n    },\n    {\n      \"key\": \"ASIN\",\n      \"value\": \"B0BZJKXS33\"\n    }\n  ]\n}",
+      "execution_time": 39.48,
+      "tokens": 10672,
+      "cost": 0.003025,
+      "error": null
+    },
+    "qwen-2.5-72b-instruct": {
+      "response": {
+        "name": "The Lost Bookshop",
+        "price": 20.93,
+        "currency": "USD",
+        "brand": null,
+        "description": "The Echo of Old Books meets The Lost Apothecary in this evocative and charming novel full of mystery and secrets. ‘The thing about books,’ she said ‘is that they help you to imagine a life bigger and better than you could ever dream of.’ On a quiet street in Dublin, a lost bookshop is waiting to be found… For too long, Opaline, Martha and Henry have been the side characters in their own lives. But when a vanishing bookshop casts its spell, these three unsuspecting strangers will discover that their own stories are every bit as extraordinary as the ones found in the pages of their beloved books. And by unlocking the secrets of the shelves, they find themselves transported to a world of wonder… where nothing is as it seems.",
+        "rating": 4.4,
+        "availability": "in_stock",
+        "specs": [
+          {
+            "key": "Listening Length",
+            "value": "12 hours"
+          },
+          {
+            "key": "Author",
+            "value": "Evie Woods"
+          },
+          {
+            "key": "Narrator",
+            "value": "Avena Mansergh-Wallace, Olivia Mace, Nick Biadon"
+          },
+          {
+            "key": "Whispersync for Voice",
+            "value": "Ready"
+          },
+          {
+            "key": "Audible.com Release Date",
+            "value": "June 22, 2023"
+          },
+          {
+            "key": "Publisher",
+            "value": "One More Chapter"
+          },
+          {
+            "key": "Program Type",
+            "value": "Audiobook"
+          },
+          {
+            "key": "Version",
+            "value": "Unabridged"
+          },
+          {
+            "key": "Language",
+            "value": "English"
+          },
+          {
+            "key": "ASIN",
+            "value": "B0BZJKXS33"
+          },
+          {
+            "key": "Best Sellers Rank",
+            "value": "#931 in Audible Books & Originals"
+          }
+        ]
+      },
+      "raw_output": "```json\n{\n  \"name\": \"The Lost Bookshop\",\n  \"price\": 20.93,\n  \"currency\": \"USD\",\n  \"brand\": null,\n  \"description\": \"The Echo of Old Books meets The Lost Apothecary in this evocative and charming novel full of mystery and secrets. ‘The thing about books,’ she said ‘is that they help you to imagine a life bigger and better than you could ever dream of.’ On a quiet street in Dublin, a lost bookshop is waiting to be found… For too long, Opaline, Martha and Henry have been the side characters in their own lives. But when a vanishing bookshop casts its spell, these three unsuspecting strangers will discover that their own stories are every bit as extraordinary as the ones found in the pages of their beloved books. And by unlocking the secrets of the shelves, they find themselves transported to a world of wonder… where nothing is as it seems.\",\n  \"rating\": 4.4,\n  \"availability\": \"in_stock\",\n  \"specs\": [\n    {\n      \"key\": \"Listening Length\",\n      \"value\": \"12 hours\"\n    },\n    {\n      \"key\": \"Author\",\n      \"value\": \"Evie Woods\"\n    },\n    {\n      \"key\": \"Narrator\",\n      \"value\": \"Avena Mansergh-Wallace, Olivia Mace, Nick Biadon\"\n    },\n    {\n      \"key\": \"Whispersync for Voice\",\n      \"value\": \"Ready\"\n    },\n    {\n      \"key\": \"Audible.com Release Date\",\n      \"value\": \"June 22, 2023\"\n    },\n    {\n      \"key\": \"Publisher\",\n      \"value\": \"One More Chapter\"\n    },\n    {\n      \"key\": \"Program Type\",\n      \"value\": \"Audiobook\"\n    },\n    {\n      \"key\": \"Version\",\n      \"value\": \"Unabridged\"\n    },\n    {\n      \"key\": \"Language\",\n      \"value\": \"English\"\n    },\n    {\n      \"key\": \"ASIN\",\n      \"value\": \"B0BZJKXS33\"\n    },\n    {\n      \"key\": \"Best Sellers Rank\",\n      \"value\": \"#931 in Audible Books & Originals\"\n    }\n  ]\n}\n```",
+      "execution_time": 33.48,
+      "tokens": 10960,
+      "cost": 0.0,
+      "error": null
+    }
+  },
+  "escalated_fields": [
+    "brand"
+  ],
+  "validation": {
+    "schema_valid": true,
+    "rules_passed": true,
+    "source_grounded": true,
+    "hallucination_rate": 0.286,
+    "issues": []
+  },
+  "json_ld": {},
+  "source_text_length": 24872,
+  "total_execution_time": 95.08,
+  "total_cost_estimate": 0.010717
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "name": "The Frozen River: A GMA Book Club Pick",
+    "price": 19.35,
+    "currency": "USD",
+    "brand": "Doubleday",
+    "description": "A gripping historical mystery inspired by the life and diary of Martha Ballard, a renowned 18th-century midwife who defied the legal system and wrote herself into American history. Set in Maine, 1789, the story follows Martha as she investigates a shocking murder and stands up for justice in a time when women were considered best seen and not heard.",
+    "rating": 4.6,
+    "availability": "in_stock",
+    "specs": [
+      {
+        "key": "Publisher",
+        "value": "Doubleday"
+      },
+      {
+        "key": "Publication date",
+        "value": "December 5, 2023"
+      },
+      {
+        "key": "Edition",
+        "value": "First Edition"
+      },
+      {
+        "key": "Language",
+        "value": "English"
+      },
+      {
+        "key": "Print length",
+        "value": "448 pages"
+      },
+      {
+        "key": "ISBN-10",
+        "value": "0385546874"
+      },
+      {
+        "key": "ISBN-13",
+        "value": "978-0385546874"
+      },
+      {
+        "key": "Item Weight",
+        "value": "1.65 pounds"
+      },
+      {
+        "key": "Dimensions",
+        "value": "6.4 x 1.55 x 9.55 inches"
+      }
+    ]
+  },
+  "domain": "ecommerce",
+  "page_name": "ecom_amazon_books_013",
+  "source_url": "https://www.amazon.com/Frozen-River-Novel-Ariel-Lawhon/dp/0385546874",
+  "agreement_scores": {
+    "name": 1.0,
+    "price": 1.0,
+    "currency": 1.0,
+    "brand": 0.5,
+    "description": 0.5,
+    "rating": 1.0,
+    "availability": 1.0,
+    "specs": 1.0
+  },
+  "per_model": {
+    "openrouter/deepseek/deepseek-v3.2": {
+      "response": {
+        "name": "The Frozen River: A GMA Book Club Pick",
+        "price": 19.35,
+        "currency": "USD",
+        "brand": "Doubleday",
+        "description": "From the New York Times bestselling author of I Was Anastasia and Code Name Hélène comes a gripping historical mystery inspired by the life and diary of Martha Ballard, a renowned 18th-century midwife who defied the legal system and wrote herself into American history.",
+        "rating": 4.6,
+        "availability": "in_stock",
+        "specs": [
+          {
+            "key": "Publisher",
+            "value": "Doubleday"
+          },
+          {
+            "key": "Publication date",
+            "value": "December 5, 2023"
+          },
+          {
+            "key": "Edition",
+            "value": "First Edition"
+          },
+          {
+            "key": "Language",
+            "value": "English"
+          },
+          {
+            "key": "Print length",
+            "value": "448 pages"
+          },
+          {
+            "key": "ISBN-10",
+            "value": "0385546874"
+          },
+          {
+            "key": "ISBN-13",
+            "value": "978-0385546874"
+          },
+          {
+            "key": "Item Weight",
+            "value": "1.65 pounds"
+          },
+          {
+            "key": "Dimensions",
+            "value": "6.4 x 1.55 x 9.55 inches"
+          }
+        ]
+      },
+      "raw_output": "{\n  \"name\": \"The Frozen River: A GMA Book Club Pick\",\n  \"price\": 19.35,\n  \"currency\": \"USD\",\n  \"brand\": \"Doubleday\",\n  \"description\": \"From the New York Times bestselling author of I Was Anastasia and Code Name Hélène comes a gripping historical mystery inspired by the life and diary of Martha Ballard, a renowned 18th-century midwife who defied the legal system and wrote herself into American history.\",\n  \"rating\": 4.6,\n  \"availability\": \"in_stock\",\n  \"specs\": [\n    {\n      \"key\": \"Publisher\",\n      \"value\": \"Doubleday\"\n    },\n    {\n      \"key\": \"Publication date\",\n      \"value\": \"December 5, 2023\"\n    },\n    {\n      \"key\": \"Edition\",\n      \"value\": \"First Edition\"\n    },\n    {\n      \"key\": \"Language\",\n      \"value\": \"English\"\n    },\n    {\n      \"key\": \"Print length\",\n      \"value\": \"448 pages\"\n    },\n    {\n      \"key\": \"ISBN-10\",\n      \"value\": \"0385546874\"\n    },\n    {\n      \"key\": \"ISBN-13\",\n      \"value\": \"978-0385546874\"\n    },\n    {\n      \"key\": \"Item Weight\",\n      \"value\": \"1.65 pounds\"\n    },\n    {\n      \"key\": \"Dimensions\",\n      \"value\": \"6.4 x 1.55 x 9.55 inches\"\n    }\n  ]\n}",
+      "execution_time": 24.48,
+      "tokens": 15934,
+      "cost": 0.004484,
+      "error": null
+    },
+    "qwen-2.5-72b-instruct": {
+      "response": {
+        "name": "The Frozen River: A GMA Book Club Pick",
+        "price": 19.35,
+        "currency": "USD",
+        "brand": null,
+        "description": "A gripping historical mystery inspired by the life and diary of Martha Ballard, a renowned 18th-century midwife who defied the legal system and wrote herself into American history. Set in Maine, 1789, the story follows Martha as she investigates a shocking murder and stands up for justice in a time when women were considered best seen and not heard.",
+        "rating": 4.6,
+        "availability": "in_stock",
+        "specs": [
+          {
+            "key": "Author",
+            "value": "Ariel Lawhon"
+          },
+          {
+            "key": "Publication Date",
+            "value": "December 5, 2023"
+          },
+          {
+            "key": "Edition",
+            "value": "First Edition"
+          },
+          {
+            "key": "Language",
+            "value": "English"
+          },
+          {
+            "key": "Print Length",
+            "value": "448 pages"
+          },
+          {
+            "key": "ISBN-10",
+            "value": "0385546874"
+          },
+          {
+            "key": "ISBN-13",
+            "value": "978-0385546874"
+          },
+          {
+            "key": "Item Weight",
+            "value": "1.65 pounds"
+          },
+          {
+            "key": "Dimensions",
+            "value": "6.4 x 1.55 x 9.55 inches"
+          },
+          {
+            "key": "Best Sellers Rank",
+            "value": "#4,558 in Books"
+          },
+          {
+            "key": "Genres",
+            "value": "Historical Fiction, Women Sleuths, Science Fiction Crime & Mystery"
+          }
+        ]
+      },
+      "raw_output": "{\n  \"name\": \"The Frozen River: A GMA Book Club Pick\",\n  \"price\": 19.35,\n  \"currency\": \"USD\",\n  \"brand\": null,\n  \"description\": \"A gripping historical mystery inspired by the life and diary of Martha Ballard, a renowned 18th-century midwife who defied the legal system and wrote herself into American history. Set in Maine, 1789, the story follows Martha as she investigates a shocking murder and stands up for justice in a time when women were considered best seen and not heard.\",\n  \"rating\": 4.6,\n  \"availability\": \"in_stock\",\n  \"specs\": [\n    {\n      \"key\": \"Author\",\n      \"value\": \"Ariel Lawhon\"\n    },\n    {\n      \"key\": \"Publication Date\",\n      \"value\": \"December 5, 2023\"\n    },\n    {\n      \"key\": \"Edition\",\n      \"value\": \"First Edition\"\n    },\n    {\n      \"key\": \"Language\",\n      \"value\": \"English\"\n    },\n    {\n      \"key\": \"Print Length\",\n      \"value\": \"448 pages\"\n    },\n    {\n      \"key\": \"ISBN-10\",\n      \"value\": \"0385546874\"\n    },\n    {\n      \"key\": \"ISBN-13\",\n      \"value\": \"978-0385546874\"\n    },\n    {\n      \"key\": \"Item Weight\",\n      \"value\": \"1.65 pounds\"\n    },\n    {\n      \"key\": \"Dimensions\",\n      \"value\": \"6.4 x 1.55 x 9.55 inches\"\n    },\n    {\n      \"key\": \"Best Sellers Rank\",\n      \"value\": \"#4,558 in Books\"\n    },\n    {\n      \"key\": \"Genres\",\n      \"value\": \"Historical Fiction, Women Sleuths, Science Fiction Crime & Mystery\"\n    }\n  ]\n}",
+      "execution_time": 15.01,
+      "tokens": 16299,
+      "cost": 0.0,
+      "error": null
+    }
+  },
+  "escalated_fields": [
+    "brand",
+    "description"
+  ],
+  "validation": {
+    "schema_valid": true,
+    "rules_passed": true,
+    "source_grounded": true,
+    "hallucination_rate": 0.143,
+    "issues": []
+  },
+  "json_ld": {},
+  "source_text_length": 49069,
+  "total_execution_time": 44.46,
+  "total_cost_estimate": 0.020936
+}

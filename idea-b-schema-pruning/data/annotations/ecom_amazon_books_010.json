@@ -1,0 +1,191 @@
+{
+  "data": {
+    "name": "The Frozen River: A GMA Book Club Pick: A Novel",
+    "price": 11.99,
+    "currency": "USD",
+    "brand": null,
+    "description": "From the New York Times bestselling author of I Was Anastasia and Code Name Hélène comes a gripping historical mystery inspired by the life and diary of Martha Ballard, a renowned 18th-century midwife who defied the legal system and wrote herself into American history. Maine, 1789: When the Kennebec River freezes, entombing a man in the ice, Martha Ballard is summoned to examine the body and determine cause of death. As a midwife and healer, she is privy to much of what goes on behind closed doors in Hallowell. Her diary is a record of every birth and death, crime and debacle that unfolds in the close-knit community. Months earlier, Martha documented the details of an alleged rape committed by two of the town’s most respected gentlemen—one of whom has now been found dead in the ice. But when a local physician undermines her conclusion, declaring the death to be an accident, Martha is forced to investigate the shocking murder on her own.",
+    "rating": 4.6,
+    "availability": "in_stock",
+    "specs": [
+      {
+        "key": "Author",
+        "value": "Ariel Lawhon"
+      },
+      {
+        "key": "Publisher",
+        "value": "Vintage"
+      },
+      {
+        "key": "Publication Date",
+        "value": "November 5, 2024"
+      },
+      {
+        "key": "Language",
+        "value": "English"
+      },
+      {
+        "key": "Print Length",
+        "value": "464 pages"
+      },
+      {
+        "key": "ISBN-10",
+        "value": "0593312074"
+      },
+      {
+        "key": "ISBN-13",
+        "value": "978-0593312070"
+      },
+      {
+        "key": "Item Weight",
+        "value": "9.6 ounces"
+      },
+      {
+        "key": "Dimensions",
+        "value": "5.14 x 0.95 x 7.97 inches"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#40 in Books, #1 in Historical Fiction (Books), #1 in Women Sleuths (Books), #5 in Women's Literature & Fiction"
+      }
+    ]
+  },
+  "domain": "ecommerce",
+  "page_name": "ecom_amazon_books_010",
+  "source_url": "https://www.amazon.com/Frozen-River-Book-Club-Novel/dp/0593312074",
+  "agreement_scores": {
+    "name": 1.0,
+    "price": 1.0,
+    "currency": 1.0,
+    "brand": 0.5,
+    "description": 0.5,
+    "rating": 1.0,
+    "availability": 1.0,
+    "specs": 1.0
+  },
+  "per_model": {
+    "openrouter/deepseek/deepseek-v3.2": {
+      "response": {
+        "name": "The Frozen River: A GMA Book Club Pick: A Novel",
+        "price": 11.99,
+        "currency": "USD",
+        "brand": "Vintage",
+        "description": "From the New York Times bestselling author of I Was Anastasia and Code Name Hélène comes a gripping historical mystery inspired by the life and diary of Martha Ballard, a renowned 18th-century midwife who defied the legal system and wrote herself into American history. Maine, 1789: When the Kennebec River freezes, entombing a man in the ice, Martha Ballard is summoned to examine the body and determine cause of death. As a midwife and healer, she is privy to much of what goes on behind closed doors in Hallowell. Her diary is a record of every birth and death, crime and debacle that unfolds in the close-knit community. Months earlier, Martha documented the details of an alleged rape committed by two of the town’s most respected gentlemen—one of whom has now been found dead in the ice. But when a local physician undermines her conclusion, declaring the death to be an accident, Martha is forced to investigate the shocking murder on her own.",
+        "rating": 4.6,
+        "availability": "in_stock",
+        "specs": [
+          {
+            "key": "Author",
+            "value": "Ariel Lawhon"
+          },
+          {
+            "key": "Publisher",
+            "value": "Vintage"
+          },
+          {
+            "key": "Publication Date",
+            "value": "November 5, 2024"
+          },
+          {
+            "key": "Language",
+            "value": "English"
+          },
+          {
+            "key": "Print Length",
+            "value": "464 pages"
+          },
+          {
+            "key": "ISBN-10",
+            "value": "0593312074"
+          },
+          {
+            "key": "ISBN-13",
+            "value": "978-0593312070"
+          },
+          {
+            "key": "Item Weight",
+            "value": "9.6 ounces"
+          },
+          {
+            "key": "Dimensions",
+            "value": "5.14 x 0.95 x 7.97 inches"
+          },
+          {
+            "key": "Best Sellers Rank",
+            "value": "#40 in Books, #1 in Historical Fiction (Books), #1 in Women Sleuths (Books), #5 in Women's Literature & Fiction"
+          }
+        ]
+      },
+      "raw_output": "{\n  \"name\": \"The Frozen River: A GMA Book Club Pick: A Novel\",\n  \"price\": 11.99,\n  \"currency\": \"USD\",\n  \"brand\": \"Vintage\",\n  \"description\": \"From the New York Times bestselling author of I Was Anastasia and Code Name Hélène comes a gripping historical mystery inspired by the life and diary of Martha Ballard, a renowned 18th-century midwife who defied the legal system and wrote herself into American history. Maine, 1789: When the Kennebec River freezes, entombing a man in the ice, Martha Ballard is summoned to examine the body and determine cause of death. As a midwife and healer, she is privy to much of what goes on behind closed doors in Hallowell. Her diary is a record of every birth and death, crime and debacle that unfolds in the close-knit community. Months earlier, Martha documented the details of an alleged rape committed by two of the town’s most respected gentlemen—one of whom has now been found dead in the ice. But when a local physician undermines her conclusion, declaring the death to be an accident, Martha is forced to investigate the shocking murder on her own.\",\n  \"rating\": 4.6,\n  \"availability\": \"in_stock\",\n  \"specs\": [\n    {\n      \"key\": \"Author\",\n      \"value\": \"Ariel Lawhon\"\n    },\n    {\n      \"key\": \"Publisher\",\n      \"value\": \"Vintage\"\n    },\n    {\n      \"key\": \"Publication Date\",\n      \"value\": \"November 5, 2024\"\n    },\n    {\n      \"key\": \"Language\",\n      \"value\": \"English\"\n    },\n    {\n      \"key\": \"Print Length\",\n      \"value\": \"464 pages\"\n    },\n    {\n      \"key\": \"ISBN-10\",\n      \"value\": \"0593312074\"\n    },\n    {\n      \"key\": \"ISBN-13\",\n      \"value\": \"978-0593312070\"\n    },\n    {\n      \"key\": \"Item Weight\",\n      \"value\": \"9.6 ounces\"\n    },\n    {\n      \"key\": \"Dimensions\",\n      \"value\": \"5.14 x 0.95 x 7.97 inches\"\n    },\n    {\n      \"key\": \"Best Sellers Rank\",\n      \"value\": \"#40 in Books, #1 in Historical Fiction (Books), #1 in Women Sleuths (Books), #5 in Women's Literature & Fiction\"\n    }\n  ]\n}",
+      "execution_time": 52.09,
+      "tokens": 16213,
+      "cost": 0.004586,
+      "error": null
+    },
+    "qwen-2.5-72b-instruct": {
+      "response": {
+        "name": "The Frozen River: A GMA Book Club Pick: A Novel",
+        "price": 11.99,
+        "currency": "USD",
+        "brand": null,
+        "description": "A historical mystery novel set in 1789 Maine, following Martha Ballard, a midwife and healer, as she investigates a murder and fights for justice in a time when women had little power.",
+        "rating": 4.6,
+        "availability": "in_stock",
+        "specs": [
+          {
+            "key": "Author",
+            "value": "Ariel Lawhon"
+          },
+          {
+            "key": "Publication Date",
+            "value": "November 5, 2024"
+          },
+          {
+            "key": "Genre",
+            "value": "Historical Fiction"
+          },
+          {
+            "key": "Pages",
+            "value": "464"
+          },
+          {
+            "key": "ISBN-10",
+            "value": "0593312074"
+          },
+          {
+            "key": "ISBN-13",
+            "value": "978-0593312070"
+          },
+          {
+            "key": "Publisher",
+            "value": "Vintage"
+          },
+          {
+            "key": "Best Sellers Rank",
+            "value": "#40 in Books, #1 in Historical Fiction, #1 in Women Sleuths, #5 in Women's Literature & Fiction"
+          }
+        ]
+      },
+      "raw_output": "{\n  \"name\": \"The Frozen River: A GMA Book Club Pick: A Novel\",\n  \"price\": 11.99,\n  \"currency\": \"USD\",\n  \"brand\": null,\n  \"description\": \"A historical mystery novel set in 1789 Maine, following Martha Ballard, a midwife and healer, as she investigates a murder and fights for justice in a time when women had little power.\",\n  \"rating\": 4.6,\n  \"availability\": \"in_stock\",\n  \"specs\": [\n    {\n      \"key\": \"Author\",\n      \"value\": \"Ariel Lawhon\"\n    },\n    {\n      \"key\": \"Publication Date\",\n      \"value\": \"November 5, 2024\"\n    },\n    {\n      \"key\": \"Genre\",\n      \"value\": \"Historical Fiction\"\n    },\n    {\n      \"key\": \"Pages\",\n      \"value\": \"464\"\n    },\n    {\n      \"key\": \"ISBN-10\",\n      \"value\": \"0593312074\"\n    },\n    {\n      \"key\": \"ISBN-13\",\n      \"value\": \"978-0593312070\"\n    },\n    {\n      \"key\": \"Publisher\",\n      \"value\": \"Vintage\"\n    },\n    {\n      \"key\": \"Best Sellers Rank\",\n      \"value\": \"#40 in Books, #1 in Historical Fiction, #1 in Women Sleuths, #5 in Women's Literature & Fiction\"\n    }\n  ]\n}",
+      "execution_time": 12.16,
+      "tokens": 16381,
+      "cost": 0.0,
+      "error": null
+    }
+  },
+  "escalated_fields": [
+    "brand",
+    "description"
+  ],
+  "validation": {
+    "schema_valid": true,
+    "rules_passed": true,
+    "source_grounded": false,
+    "hallucination_rate": 0.333,
+    "issues": []
+  },
+  "json_ld": {},
+  "source_text_length": 48620,
+  "total_execution_time": 69.96,
+  "total_cost_estimate": 0.022609
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "name": "The Frozen River: A GMA Book Club Pick",
+    "price": 13.99,
+    "currency": "USD",
+    "brand": null,
+    "description": "From the New York Times bestselling author of I Was Anastasia and Code Name Hélène comes a gripping historical mystery inspired by the life and diary of Martha Ballard, a renowned 18th-century midwife who defied the legal system and wrote herself into American history. Maine, 1789: When the Kennebec River freezes, entombing a man in the ice, Martha Ballard is summoned to examine the body and determine cause of death. As a midwife and healer, she is privy to much of what goes on behind closed doors in Hallowell. Her diary is a record of every birth and death, crime and debacle that unfolds in the close-knit community. Months earlier, Martha documented the details of an alleged rape committed by two of the town’s most respected gentlemen—one of whom has now been found dead in the ice. But when a local physician undermines her conclusion, declaring the death to be an accident, Martha is forced to investigate the shocking murder on her own. Over the course of one winter, as the trial nears, and whispers and prejudices mount, Martha doggedly pursues the truth. Her diary soon lands at the center of the scandal, implicating those she loves, and compelling Martha to decide where her own loyalties lie. Clever, layered, and subversive, Ariel Lawhon’s newest offering introduces an unsung heroine who refused to accept anything less than justice at a time when women were considered best seen and not heard. The Frozen River is a thrilling, tense, and tender story about a remarkable woman who left an unparalleled legacy yet remains nearly forgotten to this day.",
+    "rating": 4.6,
+    "availability": "in_stock",
+    "specs": [
+      {
+        "key": "ASIN",
+        "value": "B0BVTXZXZJ"
+      },
+      {
+        "key": "Publisher",
+        "value": "Vintage"
+      },
+      {
+        "key": "Publication date",
+        "value": "December 5, 2023"
+      },
+      {
+        "key": "Language",
+        "value": "English"
+      },
+      {
+        "key": "File size",
+        "value": "3.2 MB"
+      },
+      {
+        "key": "Screen Reader",
+        "value": "Supported"
+      },
+      {
+        "key": "Enhanced typesetting",
+        "value": "Enabled"
+      },
+      {
+        "key": "X-Ray",
+        "value": "Enabled"
+      },
+      {
+        "key": "Word Wise",
+        "value": "Enabled"
+      },
+      {
+        "key": "Print length",
+        "value": "420 pages"
+      },
+      {
+        "key": "ISBN-13",
+        "value": "978-0385546881"
+      },
+      {
+        "key": "Page Flip",
+        "value": "Enabled"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#153 in Kindle Store (See Top 100 in Kindle Store)"
+      }
+    ]
+  },
+  "domain": "ecommerce",
+  "page_name": "ecom_amazon_books_012",
+  "source_url": "https://www.amazon.com/Frozen-River-Novel-Ariel-Lawhon-ebook/dp/B0BVTXZXZJ",
+  "agreement_scores": {
+    "name": 1.0,
+    "price": 1.0,
+    "currency": 1.0,
+    "brand": 0.5,
+    "description": 0.0,
+    "rating": 1.0,
+    "availability": 1.0,
+    "specs": 1.0
+  },
+  "per_model": {
+    "openrouter/deepseek/deepseek-v3.2": {
+      "response": {
+        "name": "The Frozen River: A GMA Book Club Pick",
+        "price": 13.99,
+        "currency": "USD",
+        "brand": "Vintage",
+        "description": "From the New York Times bestselling author of I Was Anastasia and Code Name Hélène comes a gripping historical mystery inspired by the life and diary of Martha Ballard, a renowned 18th-century midwife who defied the legal system and wrote herself into American history. Maine, 1789: When the Kennebec River freezes, entombing a man in the ice, Martha Ballard is summoned to examine the body and determine cause of death. As a midwife and healer, she is privy to much of what goes on behind closed doors in Hallowell. Her diary is a record of every birth and death, crime and debacle that unfolds in the close-knit community. Months earlier, Martha documented the details of an alleged rape committed by two of the town’s most respected gentlemen—one of whom has now been found dead in the ice. But when a local physician undermines her conclusion, declaring the death to be an accident, Martha is forced to investigate the shocking murder on her own. Over the course of one winter, as the trial nears, and whispers and prejudices mount, Martha doggedly pursues the truth. Her diary soon lands at the center of the scandal, implicating those she loves, and compelling Martha to decide where her own loyalties lie. Clever, layered, and subversive, Ariel Lawhon’s newest offering introduces an unsung heroine who refused to accept anything less than justice at a time when women were considered best seen and not heard. The Frozen River is a thrilling, tense, and tender story about a remarkable woman who left an unparalleled legacy yet remains nearly forgotten to this day.",
+        "rating": 4.6,
+        "availability": "in_stock",
+        "specs": [
+          {
+            "key": "ASIN",
+            "value": "B0BVTXZXZJ"
+          },
+          {
+            "key": "Publisher",
+            "value": "Vintage"
+          },
+          {
+            "key": "Publication date",
+            "value": "December 5, 2023"
+          },
+          {
+            "key": "Language",
+            "value": "English"
+          },
+          {
+            "key": "File size",
+            "value": "3.2 MB"
+          },
+          {
+            "key": "Screen Reader",
+            "value": "Supported"
+          },
+          {
+            "key": "Enhanced typesetting",
+            "value": "Enabled"
+          },
+          {
+            "key": "X-Ray",
+            "value": "Enabled"
+          },
+          {
+            "key": "Word Wise",
+            "value": "Enabled"
+          },
+          {
+            "key": "Print length",
+            "value": "420 pages"
+          },
+          {
+            "key": "ISBN-13",
+            "value": "978-0385546881"
+          },
+          {
+            "key": "Page Flip",
+            "value": "Enabled"
+          },
+          {
+            "key": "Best Sellers Rank",
+            "value": "#153 in Kindle Store (See Top 100 in Kindle Store)"
+          }
+        ]
+      },
+      "raw_output": "{\n  \"name\": \"The Frozen River: A GMA Book Club Pick\",\n  \"price\": 13.99,\n  \"currency\": \"USD\",\n  \"brand\": \"Vintage\",\n  \"description\": \"From the New York Times bestselling author of I Was Anastasia and Code Name Hélène comes a gripping historical mystery inspired by the life and diary of Martha Ballard, a renowned 18th-century midwife who defied the legal system and wrote herself into American history. Maine, 1789: When the Kennebec River freezes, entombing a man in the ice, Martha Ballard is summoned to examine the body and determine cause of death. As a midwife and healer, she is privy to much of what goes on behind closed doors in Hallowell. Her diary is a record of every birth and death, crime and debacle that unfolds in the close-knit community. Months earlier, Martha documented the details of an alleged rape committed by two of the town’s most respected gentlemen—one of whom has now been found dead in the ice. But when a local physician undermines her conclusion, declaring the death to be an accident, Martha is forced to investigate the shocking murder on her own. Over the course of one winter, as the trial nears, and whispers and prejudices mount, Martha doggedly pursues the truth. Her diary soon lands at the center of the scandal, implicating those she loves, and compelling Martha to decide where her own loyalties lie. Clever, layered, and subversive, Ariel Lawhon’s newest offering introduces an unsung heroine who refused to accept anything less than justice at a time when women were considered best seen and not heard. The Frozen River is a thrilling, tense, and tender story about a remarkable woman who left an unparalleled legacy yet remains nearly forgotten to this day.\",\n  \"rating\": 4.6,\n  \"availability\": \"in_stock\",\n  \"specs\": [\n    {\n      \"key\": \"ASIN\",\n      \"value\": \"B0BVTXZXZJ\"\n    },\n    {\n      \"key\": \"Publisher\",\n      \"value\": \"Vintage\"\n    },\n    {\n      \"key\": \"Publication date\",\n      \"value\": \"December 5, 2023\"\n    },\n    {\n      \"key\": \"Language\",\n      \"value\": \"English\"\n    },\n    {\n      \"key\": \"File size\",\n      \"value\": \"3.2 MB\"\n    },\n    {\n      \"key\": \"Screen Reader\",\n      \"value\": \"Supported\"\n    },\n    {\n      \"key\": \"Enhanced typesetting\",\n      \"value\": \"Enabled\"\n    },\n    {\n      \"key\": \"X-Ray\",\n      \"value\": \"Enabled\"\n    },\n    {\n      \"key\": \"Word Wise\",\n      \"value\": \"Enabled\"\n    },\n    {\n      \"key\": \"Print length\",\n      \"value\": \"420 pages\"\n    },\n    {\n      \"key\": \"ISBN-13\",\n      \"value\": \"978-0385546881\"\n    },\n    {\n      \"key\": \"Page Flip\",\n      \"value\": \"Enabled\"\n    },\n    {\n      \"key\": \"Best Sellers Rank\",\n      \"value\": \"#153 in Kindle Store (See Top 100 in Kindle Store)\"\n    }\n  ]\n}",
+      "execution_time": 55.54,
+      "tokens": 14886,
+      "cost": 0.004233,
+      "error": null
+    },
+    "qwen-2.5-72b-instruct": {
+      "response": {
+        "name": "The Frozen River: A GMA Book Club Pick",
+        "price": 13.99,
+        "currency": "USD",
+        "brand": null,
+        "description": "A gripping historical mystery inspired by the life and diary of Martha Ballard, a renowned 18th-century midwife who defied the legal system and wrote herself into American history. Set in Maine, 1789, the story follows Martha as she investigates a murder and fights for justice in a time when women were considered best seen and not heard.",
+        "rating": 4.6,
+        "availability": "in_stock",
+        "specs": [
+          {
+            "key": "Author",
+            "value": "Ariel Lawhon"
+          },
+          {
+            "key": "Format",
+            "value": "Kindle Edition"
+          },
+          {
+            "key": "Publication Date",
+            "value": "December 5, 2023"
+          },
+          {
+            "key": "Language",
+            "value": "English"
+          },
+          {
+            "key": "File Size",
+            "value": "3.2 MB"
+          },
+          {
+            "key": "Screen Reader",
+            "value": "Supported"
+          },
+          {
+            "key": "Enhanced Typesetting",
+            "value": "Enabled"
+          },
+          {
+            "key": "X-Ray",
+            "value": "Enabled"
+          },
+          {
+            "key": "Word Wise",
+            "value": "Enabled"
+          },
+          {
+            "key": "Print Length",
+            "value": "420 pages"
+          },
+          {
+            "key": "ISBN-13",
+            "value": "978-0385546881"
+          },
+          {
+            "key": "Page Flip",
+            "value": "Enabled"
+          }
+        ]
+      },
+      "raw_output": "```json\n{\n  \"name\": \"The Frozen River: A GMA Book Club Pick\",\n  \"price\": 13.99,\n  \"currency\": \"USD\",\n  \"brand\": null,\n  \"description\": \"A gripping historical mystery inspired by the life and diary of Martha Ballard, a renowned 18th-century midwife who defied the legal system and wrote herself into American history. Set in Maine, 1789, the story follows Martha as she investigates a murder and fights for justice in a time when women were considered best seen and not heard.\",\n  \"rating\": 4.6,\n  \"availability\": \"in_stock\",\n  \"specs\": [\n    {\n      \"key\": \"Author\",\n      \"value\": \"Ariel Lawhon\"\n    },\n    {\n      \"key\": \"Format\",\n      \"value\": \"Kindle Edition\"\n    },\n    {\n      \"key\": \"Publication Date\",\n      \"value\": \"December 5, 2023\"\n    },\n    {\n      \"key\": \"Language\",\n      \"value\": \"English\"\n    },\n    {\n      \"key\": \"File Size\",\n      \"value\": \"3.2 MB\"\n    },\n    {\n      \"key\": \"Screen Reader\",\n      \"value\": \"Supported\"\n    },\n    {\n      \"key\": \"Enhanced Typesetting\",\n      \"value\": \"Enabled\"\n    },\n    {\n      \"key\": \"X-Ray\",\n      \"value\": \"Enabled\"\n    },\n    {\n      \"key\": \"Word Wise\",\n      \"value\": \"Enabled\"\n    },\n    {\n      \"key\": \"Print Length\",\n      \"value\": \"420 pages\"\n    },\n    {\n      \"key\": \"ISBN-13\",\n      \"value\": \"978-0385546881\"\n    },\n    {\n      \"key\": \"Page Flip\",\n      \"value\": \"Enabled\"\n    }\n  ]\n}\n```",
+      "execution_time": 30.88,
+      "tokens": 14735,
+      "cost": 0.0,
+      "error": null
+    }
+  },
+  "escalated_fields": [
+    "brand"
+  ],
+  "validation": {
+    "schema_valid": true,
+    "rules_passed": true,
+    "source_grounded": false,
+    "hallucination_rate": 0.333,
+    "issues": []
+  },
+  "json_ld": {},
+  "source_text_length": 44909,
+  "total_execution_time": 93.49,
+  "total_cost_estimate": 0.011883
+}

@@ -1,0 +1,7 @@
+page_id,pruning,format,model,schema_keys,schema_complexity,f1,precision,recall,exact_match,json_valid,schema_valid,hallucination_rate,tokens_in,latency_s
+1031214,none,markdown,llama-3.2-3b,37,131.29999999999998,0.0,0.0,0.0,0,0,1,0.0,3767,4.76
+1006468,none,markdown,llama-3.2-3b,37,131.29999999999998,0.5,0.5,0.5,0,1,1,0.0,2380,3.37
+1031214,generic,markdown,llama-3.2-3b,37,131.29999999999998,0.0,0.0,0.0,0,0,1,0.0,2105,2.16
+1006468,generic,markdown,llama-3.2-3b,37,131.29999999999998,0.0,0.0,0.0,0,0,1,1.0,471,1.61
+1031214,heuristic,markdown,llama-3.2-3b,37,131.29999999999998,0.0,0.0,0.0,0,0,1,0.0,735,16.69
+1006468,heuristic,markdown,llama-3.2-3b,37,131.29999999999998,0.0,0.0,0.0,0,0,1,1.0,471,1.61

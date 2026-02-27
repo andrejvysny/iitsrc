@@ -1,0 +1,30 @@
+\begin{table}[htbp]
+\centering
+\caption{Cross-model comparison on 100 common pages (shared quantization levels)}
+\label{tab:cross_model}
+\begin{tabular}{llrrrr}
+\toprule
+Model & Quant & F1 & JSON\% & Latency(s) & Success\% \\
+\midrule
+Qwen2.5-3B & q8_0 & 0.118 & 10.0 & 2.5 & 15.0 \\
+Qwen2.5-3B & q6_k & 0.090 & 9.0 & 2.6 & 13.0 \\
+Qwen2.5-3B & q5_k_m & 0.065 & 8.0 & 2.9 & 11.0 \\
+Qwen2.5-3B & q4_k_m & 0.317 & 19.0 & 5.2 & 48.0 \\
+\midrule
+Llama-3.2-3B & q8_0 & 0.337 & 1.0 & 10.0 & 36.0 \\
+Llama-3.2-3B & q6_k & 0.353 & 3.0 & 9.6 & 38.0 \\
+Llama-3.2-3B & q5_k_m & 0.355 & 1.0 & 11.4 & 39.0 \\
+Llama-3.2-3B & q4_k_m & 0.321 & 3.0 & 8.3 & 35.0 \\
+\midrule
+Phi-3.5-mini & q8_0 & 0.449 & 87.0 & 6.8 & 62.0 \\
+Phi-3.5-mini & q6_k & 0.415 & 88.0 & 6.8 & 60.0 \\
+Phi-3.5-mini & q5_k_m & 0.405 & 88.0 & 6.4 & 61.0 \\
+Phi-3.5-mini & q4_k_m & 0.510 & 93.0 & 5.0 & 62.0 \\
+\midrule
+Mistral-7B & q8_0 & 0.530 & 76.0 & 12.3 & 65.0 \\
+Mistral-7B & q6_k & 0.525 & 79.0 & 11.9 & 67.0 \\
+Mistral-7B & q5_k_m & 0.580 & 85.0 & 10.0 & 71.0 \\
+Mistral-7B & q4_k_m & 0.455 & 71.0 & 12.8 & 60.0 \\
+\bottomrule
+\end{tabular}
+\end{table}

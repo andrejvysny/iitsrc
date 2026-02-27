@@ -1,0 +1,180 @@
+{
+  "data": {
+    "name": "The Correspondent: A Novel",
+    "price": 25.18,
+    "currency": "USD",
+    "brand": null,
+    "description": "#1 NEW YORK TIMES BESTSELLER • Discover the word-of-mouth hit hailed by Ann Patchett as “A cause for celebration”—an intimate novel about the transformative power of the written word and the beauty of slowing down to reconnect with the people we love. Filled with knowledge that only comes from a life fully lived, The Correspondent is a gem of a novel about the power of finding solace in literature and connection with people we might never meet in person. It is about the hubris of youth and the wisdom of old age, and the mistakes and acts of kindness that occur during a lifetime. Sybil Van Antwerp has throughout her life used letters to make sense of the world and her place in it.",
+    "rating": 4.6,
+    "availability": "in_stock",
+    "specs": [
+      {
+        "key": "Publisher",
+        "value": "Crown"
+      },
+      {
+        "key": "Publication date",
+        "value": "April 29, 2025"
+      },
+      {
+        "key": "Language",
+        "value": "English"
+      },
+      {
+        "key": "Print length",
+        "value": "304 pages"
+      },
+      {
+        "key": "ISBN-10",
+        "value": "0593798430"
+      },
+      {
+        "key": "ISBN-13",
+        "value": "978-0593798430"
+      },
+      {
+        "key": "Item Weight",
+        "value": "1.05 pounds"
+      },
+      {
+        "key": "Dimensions",
+        "value": "6.13 x 0.75 x 9.13 inches"
+      }
+    ]
+  },
+  "domain": "ecommerce",
+  "page_name": "ecom_amazon_books_009",
+  "source_url": "https://www.amazon.com/Correspondent-Novel-Virginia-Evans/dp/0593798430",
+  "agreement_scores": {
+    "name": 1.0,
+    "price": 1.0,
+    "currency": 1.0,
+    "brand": 1.0,
+    "description": 0.0,
+    "rating": 1.0,
+    "availability": 1.0,
+    "specs": 1.0
+  },
+  "per_model": {
+    "openrouter/deepseek/deepseek-v3.2": {
+      "response": {
+        "name": "The Correspondent: A Novel",
+        "price": 25.18,
+        "currency": "USD",
+        "brand": null,
+        "description": "#1 NEW YORK TIMES BESTSELLER • Discover the word-of-mouth hit hailed by Ann Patchett as “A cause for celebration”—an intimate novel about the transformative power of the written word and the beauty of slowing down to reconnect with the people we love. Filled with knowledge that only comes from a life fully lived, The Correspondent is a gem of a novel about the power of finding solace in literature and connection with people we might never meet in person. It is about the hubris of youth and the wisdom of old age, and the mistakes and acts of kindness that occur during a lifetime. Sybil Van Antwerp has throughout her life used letters to make sense of the world and her place in it.",
+        "rating": 4.6,
+        "availability": "in_stock",
+        "specs": [
+          {
+            "key": "Publisher",
+            "value": "Crown"
+          },
+          {
+            "key": "Publication date",
+            "value": "April 29, 2025"
+          },
+          {
+            "key": "Language",
+            "value": "English"
+          },
+          {
+            "key": "Print length",
+            "value": "304 pages"
+          },
+          {
+            "key": "ISBN-10",
+            "value": "0593798430"
+          },
+          {
+            "key": "ISBN-13",
+            "value": "978-0593798430"
+          },
+          {
+            "key": "Item Weight",
+            "value": "1.05 pounds"
+          },
+          {
+            "key": "Dimensions",
+            "value": "6.13 x 0.75 x 9.13 inches"
+          }
+        ]
+      },
+      "raw_output": "```json\n{\n    \"name\": \"The Correspondent: A Novel\",\n    \"price\": 25.18,\n    \"currency\": \"USD\",\n    \"brand\": null,\n    \"description\": \"#1 NEW YORK TIMES BESTSELLER • Discover the word-of-mouth hit hailed by Ann Patchett as “A cause for celebration”—an intimate novel about the transformative power of the written word and the beauty of slowing down to reconnect with the people we love. Filled with knowledge that only comes from a life fully lived, The Correspondent is a gem of a novel about the power of finding solace in literature and connection with people we might never meet in person. It is about the hubris of youth and the wisdom of old age, and the mistakes and acts of kindness that occur during a lifetime. Sybil Van Antwerp has throughout her life used letters to make sense of the world and her place in it.\",\n    \"rating\": 4.6,\n    \"availability\": \"in_stock\",\n    \"specs\": [\n        {\n            \"key\": \"Publisher\",\n            \"value\": \"Crown\"\n        },\n        {\n            \"key\": \"Publication date\",\n            \"value\": \"April 29, 2025\"\n        },\n        {\n            \"key\": \"Language\",\n            \"value\": \"English\"\n        },\n        {\n            \"key\": \"Print length\",\n            \"value\": \"304 pages\"\n        },\n        {\n            \"key\": \"ISBN-10\",\n            \"value\": \"0593798430\"\n        },\n        {\n            \"key\": \"ISBN-13\",\n            \"value\": \"978-0593798430\"\n        },\n        {\n            \"key\": \"Item Weight\",\n            \"value\": \"1.05 pounds\"\n        },\n        {\n            \"key\": \"Dimensions\",\n            \"value\": \"6.13 x 0.75 x 9.13 inches\"\n        }\n    ]\n}\n```",
+      "execution_time": 12.93,
+      "tokens": 15024,
+      "cost": 0.004255,
+      "error": null
+    },
+    "qwen-2.5-72b-instruct": {
+      "response": {
+        "name": "The Correspondent: A Novel",
+        "price": 25.18,
+        "currency": "USD",
+        "brand": null,
+        "description": "A novel about the transformative power of the written word and the beauty of slowing down to reconnect with the people we love. The story is told through letters and emails exchanged by a retired woman with her friends, family, and literary idols.",
+        "rating": 4.6,
+        "availability": "in_stock",
+        "specs": [
+          {
+            "key": "Author",
+            "value": "Virginia Evans"
+          },
+          {
+            "key": "Publication Date",
+            "value": "April 29, 2025"
+          },
+          {
+            "key": "Publisher",
+            "value": "Crown"
+          },
+          {
+            "key": "Pages",
+            "value": "304"
+          },
+          {
+            "key": "ISBN-10",
+            "value": "0593798430"
+          },
+          {
+            "key": "ISBN-13",
+            "value": "978-0593798430"
+          },
+          {
+            "key": "Item Weight",
+            "value": "1.05 pounds"
+          },
+          {
+            "key": "Dimensions",
+            "value": "6.13 x 0.75 x 9.13 inches"
+          },
+          {
+            "key": "Best Sellers Rank",
+            "value": "#7 in Books"
+          },
+          {
+            "key": "Genres",
+            "value": "Mothers & Children Fiction, Women's Domestic Life Fiction, Contemporary Women Fiction"
+          }
+        ]
+      },
+      "raw_output": "{\n  \"name\": \"The Correspondent: A Novel\",\n  \"price\": 25.18,\n  \"currency\": \"USD\",\n  \"brand\": null,\n  \"description\": \"A novel about the transformative power of the written word and the beauty of slowing down to reconnect with the people we love. The story is told through letters and emails exchanged by a retired woman with her friends, family, and literary idols.\",\n  \"rating\": 4.6,\n  \"availability\": \"in_stock\",\n  \"specs\": [\n    {\n      \"key\": \"Author\",\n      \"value\": \"Virginia Evans\"\n    },\n    {\n      \"key\": \"Publication Date\",\n      \"value\": \"April 29, 2025\"\n    },\n    {\n      \"key\": \"Publisher\",\n      \"value\": \"Crown\"\n    },\n    {\n      \"key\": \"Pages\",\n      \"value\": \"304\"\n    },\n    {\n      \"key\": \"ISBN-10\",\n      \"value\": \"0593798430\"\n    },\n    {\n      \"key\": \"ISBN-13\",\n      \"value\": \"978-0593798430\"\n    },\n    {\n      \"key\": \"Item Weight\",\n      \"value\": \"1.05 pounds\"\n    },\n    {\n      \"key\": \"Dimensions\",\n      \"value\": \"6.13 x 0.75 x 9.13 inches\"\n    },\n    {\n      \"key\": \"Best Sellers Rank\",\n      \"value\": \"#7 in Books\"\n    },\n    {\n      \"key\": \"Genres\",\n      \"value\": \"Mothers & Children Fiction, Women's Domestic Life Fiction, Contemporary Women Fiction\"\n    }\n  ]\n}",
+      "execution_time": 13.59,
+      "tokens": 15160,
+      "cost": 0.0,
+      "error": null
+    }
+  },
+  "escalated_fields": [],
+  "validation": {
+    "schema_valid": true,
+    "rules_passed": true,
+    "source_grounded": false,
+    "hallucination_rate": 0.333,
+    "issues": []
+  },
+  "json_ld": {},
+  "source_text_length": 43695,
+  "total_execution_time": 32.71,
+  "total_cost_estimate": 0.004255
+}

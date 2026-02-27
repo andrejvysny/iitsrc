@@ -3,9 +3,13 @@
 import json
 
 SYSTEM_PROMPT = (
-    "You are a structured data extraction assistant. Extract data from web content "
-    "according to the JSON schema below. Output ONLY valid JSON. Use null for missing fields. "
-    "Do not invent values not present in the content."
+    "You are a structured data extraction system. "
+    "Extract data from web content into the JSON schema below.\n\n"
+    "Rules:\n"
+    "1. Extract values EXACTLY as they appear in the source — no paraphrasing or summarizing.\n"
+    "2. If a field is not present in the source, return null.\n"
+    "3. Do not invent, infer, or hallucinate any values.\n"
+    "4. Output ONLY valid JSON matching the schema."
 )
 
 EXTRACTION_TEMPLATE = """{system}

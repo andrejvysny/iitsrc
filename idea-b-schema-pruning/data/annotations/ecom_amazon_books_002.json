@@ -1,0 +1,124 @@
+{
+  "data": {
+    "name": "Blake Wilder FBI Mystery Thriller (33 book series)",
+    "price": 5.24,
+    "currency": "USD",
+    "brand": null,
+    "description": "A series of FBI mystery thrillers following Agent Blake Wilder. After her parents were murdered and her sister taken as a child, Blake joined the FBI to seek the truth and now tackles disturbing cases, with the mysteries of her own past intertwined with the crimes she investigates.",
+    "rating": 4.4,
+    "availability": "in_stock",
+    "specs": "Kindle, Audiobook, Paperback"
+  },
+  "domain": "ecommerce",
+  "page_name": "ecom_amazon_books_002",
+  "source_url": "https://www.amazon.com/dp/B08R2SN148",
+  "agreement_scores": {
+    "name": 0.5,
+    "price": 0.5,
+    "currency": 1.0,
+    "brand": 1.0,
+    "description": 0.5,
+    "rating": 1.0,
+    "availability": 1.0,
+    "specs": 0.5
+  },
+  "per_model": {
+    "openrouter/deepseek/deepseek-v3.2": {
+      "response": {
+        "name": "Blake Wilder FBI Mystery Thriller (33 book series)",
+        "price": 5.24,
+        "currency": "USD",
+        "brand": null,
+        "description": "A series of FBI mystery thrillers following Agent Blake Wilder. After her parents were murdered and her sister taken as a child, Blake joined the FBI to seek the truth and now tackles disturbing cases, with the mysteries of her own past intertwined with the crimes she investigates.",
+        "rating": 4.4,
+        "availability": "in_stock",
+        "specs": [
+          {
+            "key": "Author",
+            "value": "Elle Gray"
+          },
+          {
+            "key": "Format",
+            "value": "Kindle Edition"
+          },
+          {
+            "key": "Series Name",
+            "value": "Blake Wilder FBI Mystery Thriller"
+          },
+          {
+            "key": "Number of Books",
+            "value": "33"
+          },
+          {
+            "key": "Genre",
+            "value": "Mystery Thriller"
+          },
+          {
+            "key": "Protagonist",
+            "value": "FBI Agent Blake Wilder"
+          }
+        ]
+      },
+      "raw_output": "```json\n{\n    \"name\": \"Blake Wilder FBI Mystery Thriller (33 book series)\",\n    \"price\": 5.24,\n    \"currency\": \"USD\",\n    \"brand\": null,\n    \"description\": \"A series of FBI mystery thrillers following Agent Blake Wilder. After her parents were murdered and her sister taken as a child, Blake joined the FBI to seek the truth and now tackles disturbing cases, with the mysteries of her own past intertwined with the crimes she investigates.\",\n    \"rating\": 4.4,\n    \"availability\": \"in_stock\",\n    \"specs\": [\n        {\n            \"key\": \"Author\",\n            \"value\": \"Elle Gray\"\n        },\n        {\n            \"key\": \"Format\",\n            \"value\": \"Kindle Edition\"\n        },\n        {\n            \"key\": \"Series Name\",\n            \"value\": \"Blake Wilder FBI Mystery Thriller\"\n        },\n        {\n            \"key\": \"Number of Books\",\n            \"value\": \"33\"\n        },\n        {\n            \"key\": \"Genre\",\n            \"value\": \"Mystery Thriller\"\n        },\n        {\n            \"key\": \"Protagonist\",\n            \"value\": \"FBI Agent Blake Wilder\"\n        }\n    ]\n}\n```",
+      "execution_time": 11.73,
+      "tokens": 15423,
+      "cost": 0.004349,
+      "error": null
+    },
+    "qwen-2.5-72b-instruct": {
+      "response": {
+        "name": "Blake Wilder FBI Mystery Thriller",
+        "price": 6.29,
+        "currency": "USD",
+        "brand": null,
+        "description": "A series of 33 books following FBI agent Blake Wilder as she solves various crimes and mysteries, often intertwined with her own personal past and the disappearance of her sister. Each book in the series delves into a different case, ranging from serial killers to international conspiracies, and is known for its fast-paced, engaging storytelling and complex characters.",
+        "rating": 4.4,
+        "availability": "in_stock",
+        "specs": [
+          {
+            "key": "Author",
+            "value": "Elle Gray"
+          },
+          {
+            "key": "Series Length",
+            "value": "33 books"
+          },
+          {
+            "key": "Format",
+            "value": "Kindle, Audiobook, Paperback"
+          },
+          {
+            "key": "Average Rating",
+            "value": "4.4 out of 5 stars"
+          },
+          {
+            "key": "Publication Date",
+            "value": "Various dates, with the latest review from 2025"
+          }
+        ]
+      },
+      "raw_output": "{\n  \"name\": \"Blake Wilder FBI Mystery Thriller\",\n  \"price\": 6.29,\n  \"currency\": \"USD\",\n  \"brand\": null,\n  \"description\": \"A series of 33 books following FBI agent Blake Wilder as she solves various crimes and mysteries, often intertwined with her own personal past and the disappearance of her sister. Each book in the series delves into a different case, ranging from serial killers to international conspiracies, and is known for its fast-paced, engaging storytelling and complex characters.\",\n  \"rating\": 4.4,\n  \"availability\": \"in_stock\",\n  \"specs\": [\n    {\n      \"key\": \"Author\",\n      \"value\": \"Elle Gray\"\n    },\n    {\n      \"key\": \"Series Length\",\n      \"value\": \"33 books\"\n    },\n    {\n      \"key\": \"Format\",\n      \"value\": \"Kindle, Audiobook, Paperback\"\n    },\n    {\n      \"key\": \"Average Rating\",\n      \"value\": \"4.4 out of 5 stars\"\n    },\n    {\n      \"key\": \"Publication Date\",\n      \"value\": \"Various dates, with the latest review from 2025\"\n    }\n  ]\n}",
+      "execution_time": 11.27,
+      "tokens": 15753,
+      "cost": 0.0,
+      "error": null
+    }
+  },
+  "escalated_fields": [
+    "name",
+    "price",
+    "description",
+    "specs"
+  ],
+  "validation": {
+    "schema_valid": false,
+    "rules_passed": true,
+    "source_grounded": false,
+    "hallucination_rate": 0.429,
+    "issues": []
+  },
+  "json_ld": {},
+  "source_text_length": 45532,
+  "total_execution_time": 32.58,
+  "total_cost_estimate": 0.036547
+}

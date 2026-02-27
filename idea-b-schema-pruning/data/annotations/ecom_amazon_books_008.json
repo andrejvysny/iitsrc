@@ -1,0 +1,220 @@
+{
+  "data": {
+    "name": "The Correspondent: A Novel",
+    "price": 13.99,
+    "currency": "USD",
+    "brand": null,
+    "description": "Discover the word-of-mouth hit hailed by Ann Patchett as “A cause for celebration”—an intimate novel about the transformative power of the written word and the beauty of slowing down to reconnect with the people we love. “The Correspondent is this year’s breakout novel no one saw coming.”—The Wall Street Journal “I cried more than once as I witnessed this brilliant woman come to understand herself more deeply.”—Florence Knapp, author of The Names LONGLISTED FOR THE CENTER FOR FICTION FIRST NOVEL PRIZE AND THE ANDREW CARNEGIE MEDAL • A BEST BOOK OF THE YEAR: NPR, The Washington Post, Boston Globe, Elle, Christian Science Monitor, She Reads “Imagine, the letters one has sent out into the world, the letters received back in turn, are like the pieces of a magnificent puzzle. . . . Isn’t there something wonderful in that, to think that a story of one’s life is preserved in some way, that this very letter may one day mean something, even if it is a very small thing, to someone?” Filled with knowledge that only comes from a life fully lived, The Correspondent is a gem of a novel about the power of finding solace in literature and connection with people we might never meet in person. It is about the hubris of youth and the wisdom of old age, and the mistakes and acts of kindness that occur during a lifetime. Sybil Van Antwerp has throughout her life used letters to make sense of the world and her place in it. Most mornings, around half past ten, Sybil sits down to write letters—to her brother, to her best friend, to the president of the university who will not allow her to audit a class she desperately wants to take, to Joan Didion and Larry McMurtry to tell them what she thinks of their latest books, and to one person to whom she writes often yet never sends the letter. Sybil expects her world to go on as it always has—a mother, grandmother, wife, divorcee, distinguished lawyer, she has lived a very full life. But when letters from someone in her past force her to examine one of the most painful periods of her life, she realizes that the letter she has been writing over the years needs to be read and that she cannot move forward until she finds it in her heart to offer forgiveness. Sybil Van Antwerp’s life of letters might be “a very small thing,” but she also might be one of the most memorable characters you will ever read.",
+    "rating": 4.6,
+    "availability": "in_stock",
+    "specs": [
+      {
+        "key": "ASIN",
+        "value": "B0CYXX3PX1"
+      },
+      {
+        "key": "Publisher",
+        "value": "Crown"
+      },
+      {
+        "key": "Publication date",
+        "value": "April 29, 2025"
+      },
+      {
+        "key": "Language",
+        "value": "English"
+      },
+      {
+        "key": "File size",
+        "value": "4.4 MB"
+      },
+      {
+        "key": "Screen Reader",
+        "value": "Supported"
+      },
+      {
+        "key": "Enhanced typesetting",
+        "value": "Enabled"
+      },
+      {
+        "key": "X-Ray",
+        "value": "Not Enabled"
+      },
+      {
+        "key": "Word Wise",
+        "value": "Enabled"
+      },
+      {
+        "key": "Print length",
+        "value": "291 pages"
+      },
+      {
+        "key": "ISBN-13",
+        "value": "978-0593798447"
+      },
+      {
+        "key": "Page Flip",
+        "value": "Enabled"
+      }
+    ]
+  },
+  "domain": "ecommerce",
+  "page_name": "ecom_amazon_books_008",
+  "source_url": "https://www.amazon.com/Correspondent-Novel-Virginia-Evans-ebook/dp/B0CYXX3PX1",
+  "agreement_scores": {
+    "name": 1.0,
+    "price": 1.0,
+    "currency": 1.0,
+    "brand": 1.0,
+    "description": 0.0,
+    "rating": 1.0,
+    "availability": 1.0,
+    "specs": 1.0
+  },
+  "per_model": {
+    "openrouter/deepseek/deepseek-v3.2": {
+      "response": {
+        "name": "The Correspondent: A Novel",
+        "price": 13.99,
+        "currency": "USD",
+        "brand": null,
+        "description": "Discover the word-of-mouth hit hailed by Ann Patchett as “A cause for celebration”—an intimate novel about the transformative power of the written word and the beauty of slowing down to reconnect with the people we love. “The Correspondent is this year’s breakout novel no one saw coming.”—The Wall Street Journal “I cried more than once as I witnessed this brilliant woman come to understand herself more deeply.”—Florence Knapp, author of The Names LONGLISTED FOR THE CENTER FOR FICTION FIRST NOVEL PRIZE AND THE ANDREW CARNEGIE MEDAL • A BEST BOOK OF THE YEAR: NPR, The Washington Post, Boston Globe, Elle, Christian Science Monitor, She Reads “Imagine, the letters one has sent out into the world, the letters received back in turn, are like the pieces of a magnificent puzzle. . . . Isn’t there something wonderful in that, to think that a story of one’s life is preserved in some way, that this very letter may one day mean something, even if it is a very small thing, to someone?” Filled with knowledge that only comes from a life fully lived, The Correspondent is a gem of a novel about the power of finding solace in literature and connection with people we might never meet in person. It is about the hubris of youth and the wisdom of old age, and the mistakes and acts of kindness that occur during a lifetime. Sybil Van Antwerp has throughout her life used letters to make sense of the world and her place in it. Most mornings, around half past ten, Sybil sits down to write letters—to her brother, to her best friend, to the president of the university who will not allow her to audit a class she desperately wants to take, to Joan Didion and Larry McMurtry to tell them what she thinks of their latest books, and to one person to whom she writes often yet never sends the letter. Sybil expects her world to go on as it always has—a mother, grandmother, wife, divorcee, distinguished lawyer, she has lived a very full life. But when letters from someone in her past force her to examine one of the most painful periods of her life, she realizes that the letter she has been writing over the years needs to be read and that she cannot move forward until she finds it in her heart to offer forgiveness. Sybil Van Antwerp’s life of letters might be “a very small thing,” but she also might be one of the most memorable characters you will ever read.",
+        "rating": 4.6,
+        "availability": "in_stock",
+        "specs": [
+          {
+            "key": "ASIN",
+            "value": "B0CYXX3PX1"
+          },
+          {
+            "key": "Publisher",
+            "value": "Crown"
+          },
+          {
+            "key": "Publication date",
+            "value": "April 29, 2025"
+          },
+          {
+            "key": "Language",
+            "value": "English"
+          },
+          {
+            "key": "File size",
+            "value": "4.4 MB"
+          },
+          {
+            "key": "Screen Reader",
+            "value": "Supported"
+          },
+          {
+            "key": "Enhanced typesetting",
+            "value": "Enabled"
+          },
+          {
+            "key": "X-Ray",
+            "value": "Not Enabled"
+          },
+          {
+            "key": "Word Wise",
+            "value": "Enabled"
+          },
+          {
+            "key": "Print length",
+            "value": "291 pages"
+          },
+          {
+            "key": "ISBN-13",
+            "value": "978-0593798447"
+          },
+          {
+            "key": "Page Flip",
+            "value": "Enabled"
+          }
+        ]
+      },
+      "raw_output": "{\n  \"name\": \"The Correspondent: A Novel\",\n  \"price\": 13.99,\n  \"currency\": \"USD\",\n  \"brand\": null,\n  \"description\": \"Discover the word-of-mouth hit hailed by Ann Patchett as “A cause for celebration”—an intimate novel about the transformative power of the written word and the beauty of slowing down to reconnect with the people we love. “The Correspondent is this year’s breakout novel no one saw coming.”—The Wall Street Journal “I cried more than once as I witnessed this brilliant woman come to understand herself more deeply.”—Florence Knapp, author of The Names LONGLISTED FOR THE CENTER FOR FICTION FIRST NOVEL PRIZE AND THE ANDREW CARNEGIE MEDAL • A BEST BOOK OF THE YEAR: NPR, The Washington Post, Boston Globe, Elle, Christian Science Monitor, She Reads “Imagine, the letters one has sent out into the world, the letters received back in turn, are like the pieces of a magnificent puzzle. . . . Isn’t there something wonderful in that, to think that a story of one’s life is preserved in some way, that this very letter may one day mean something, even if it is a very small thing, to someone?” Filled with knowledge that only comes from a life fully lived, The Correspondent is a gem of a novel about the power of finding solace in literature and connection with people we might never meet in person. It is about the hubris of youth and the wisdom of old age, and the mistakes and acts of kindness that occur during a lifetime. Sybil Van Antwerp has throughout her life used letters to make sense of the world and her place in it. Most mornings, around half past ten, Sybil sits down to write letters—to her brother, to her best friend, to the president of the university who will not allow her to audit a class she desperately wants to take, to Joan Didion and Larry McMurtry to tell them what she thinks of their latest books, and to one person to whom she writes often yet never sends the letter. Sybil expects her world to go on as it always has—a mother, grandmother, wife, divorcee, distinguished lawyer, she has lived a very full life. But when letters from someone in her past force her to examine one of the most painful periods of her life, she realizes that the letter she has been writing over the years needs to be read and that she cannot move forward until she finds it in her heart to offer forgiveness. Sybil Van Antwerp’s life of letters might be “a very small thing,” but she also might be one of the most memorable characters you will ever read.\",\n  \"rating\": 4.6,\n  \"availability\": \"in_stock\",\n  \"specs\": [\n    {\n      \"key\": \"ASIN\",\n      \"value\": \"B0CYXX3PX1\"\n    },\n    {\n      \"key\": \"Publisher\",\n      \"value\": \"Crown\"\n    },\n    {\n      \"key\": \"Publication date\",\n      \"value\": \"April 29, 2025\"\n    },\n    {\n      \"key\": \"Language\",\n      \"value\": \"English\"\n    },\n    {\n      \"key\": \"File size\",\n      \"value\": \"4.4 MB\"\n    },\n    {\n      \"key\": \"Screen Reader\",\n      \"value\": \"Supported\"\n    },\n    {\n      \"key\": \"Enhanced typesetting\",\n      \"value\": \"Enabled\"\n    },\n    {\n      \"key\": \"X-Ray\",\n      \"value\": \"Not Enabled\"\n    },\n    {\n      \"key\": \"Word Wise\",\n      \"value\": \"Enabled\"\n    },\n    {\n      \"key\": \"Print length\",\n      \"value\": \"291 pages\"\n    },\n    {\n      \"key\": \"ISBN-13\",\n      \"value\": \"978-0593798447\"\n    },\n    {\n      \"key\": \"Page Flip\",\n      \"value\": \"Enabled\"\n    }\n  ]\n}",
+      "execution_time": 73.27,
+      "tokens": 14842,
+      "cost": 0.004239,
+      "error": null
+    },
+    "qwen-2.5-72b-instruct": {
+      "response": {
+        "name": "The Correspondent: A Novel",
+        "price": 13.99,
+        "currency": "USD",
+        "brand": null,
+        "description": "A novel about the transformative power of the written word and the beauty of slowing down to reconnect with the people we love. It is about the hubris of youth and the wisdom of old age, and the mistakes and acts of kindness that occur during a lifetime.",
+        "rating": 4.6,
+        "availability": "in_stock",
+        "specs": [
+          {
+            "key": "Format",
+            "value": "Kindle Edition"
+          },
+          {
+            "key": "Publisher",
+            "value": "Crown"
+          },
+          {
+            "key": "Publication date",
+            "value": "April 29, 2025"
+          },
+          {
+            "key": "Language",
+            "value": "English"
+          },
+          {
+            "key": "File size",
+            "value": "4.4 MB"
+          },
+          {
+            "key": "Screen Reader",
+            "value": "Supported"
+          },
+          {
+            "key": "Enhanced typesetting",
+            "value": "Enabled"
+          },
+          {
+            "key": "X-Ray",
+            "value": "Not Enabled"
+          },
+          {
+            "key": "Word Wise",
+            "value": "Enabled"
+          },
+          {
+            "key": "Print length",
+            "value": "291 pages"
+          },
+          {
+            "key": "ISBN-13",
+            "value": "978-0593798447"
+          },
+          {
+            "key": "Page Flip",
+            "value": "Enabled"
+          }
+        ]
+      },
+      "raw_output": "{\n  \"name\": \"The Correspondent: A Novel\",\n  \"price\": 13.99,\n  \"currency\": \"USD\",\n  \"brand\": null,\n  \"description\": \"A novel about the transformative power of the written word and the beauty of slowing down to reconnect with the people we love. It is about the hubris of youth and the wisdom of old age, and the mistakes and acts of kindness that occur during a lifetime.\",\n  \"rating\": 4.6,\n  \"availability\": \"in_stock\",\n  \"specs\": [\n    {\n      \"key\": \"Format\",\n      \"value\": \"Kindle Edition\"\n    },\n    {\n      \"key\": \"Publisher\",\n      \"value\": \"Crown\"\n    },\n    {\n      \"key\": \"Publication date\",\n      \"value\": \"April 29, 2025\"\n    },\n    {\n      \"key\": \"Language\",\n      \"value\": \"English\"\n    },\n    {\n      \"key\": \"File size\",\n      \"value\": \"4.4 MB\"\n    },\n    {\n      \"key\": \"Screen Reader\",\n      \"value\": \"Supported\"\n    },\n    {\n      \"key\": \"Enhanced typesetting\",\n      \"value\": \"Enabled\"\n    },\n    {\n      \"key\": \"X-Ray\",\n      \"value\": \"Not Enabled\"\n    },\n    {\n      \"key\": \"Word Wise\",\n      \"value\": \"Enabled\"\n    },\n    {\n      \"key\": \"Print length\",\n      \"value\": \"291 pages\"\n    },\n    {\n      \"key\": \"ISBN-13\",\n      \"value\": \"978-0593798447\"\n    },\n    {\n      \"key\": \"Page Flip\",\n      \"value\": \"Enabled\"\n    }\n  ]\n}",
+      "execution_time": 13.53,
+      "tokens": 14439,
+      "cost": 0.0,
+      "error": null
+    }
+  },
+  "escalated_fields": [],
+  "validation": {
+    "schema_valid": true,
+    "rules_passed": true,
+    "source_grounded": true,
+    "hallucination_rate": 0.167,
+    "issues": []
+  },
+  "json_ld": {},
+  "source_text_length": 42758,
+  "total_execution_time": 105.7,
+  "total_cost_estimate": 0.004239
+}

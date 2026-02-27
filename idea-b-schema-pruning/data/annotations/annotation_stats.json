@@ -1,0 +1,81 @@
+{
+  "total": 10,
+  "completed": 10,
+  "failed": 0,
+  "total_cost": 0.1741,
+  "total_time": 880.66,
+  "started_at": "2026-02-26T14:19:31.027526+00:00",
+  "files": [
+    {
+      "page_name": "ecom_amazon_books_003",
+      "cost": 0.013587,
+      "time": 91.06,
+      "schema_valid": true,
+      "escalated": 1
+    },
+    {
+      "page_name": "ecom_amazon_books_004",
+      "cost": 0.010717,
+      "time": 95.08,
+      "schema_valid": true,
+      "escalated": 1
+    },
+    {
+      "page_name": "ecom_amazon_books_005",
+      "cost": 0.027731,
+      "time": 56.32,
+      "schema_valid": true,
+      "escalated": 3
+    },
+    {
+      "page_name": "ecom_amazon_books_008",
+      "cost": 0.004239,
+      "time": 105.7,
+      "schema_valid": true,
+      "escalated": 0
+    },
+    {
+      "page_name": "ecom_amazon_books_011",
+      "cost": 0.011254,
+      "time": 75.75,
+      "schema_valid": true,
+      "escalated": 1
+    },
+    {
+      "page_name": "ecom_amazon_books_012",
+      "cost": 0.011883,
+      "time": 93.49,
+      "schema_valid": true,
+      "escalated": 1
+    },
+    {
+      "page_name": "ecom_amazon_books_013",
+      "cost": 0.020936,
+      "time": 44.46,
+      "schema_valid": true,
+      "escalated": 2
+    },
+    {
+      "page_name": "ecom_amazon_books_014",
+      "cost": 0.011352,
+      "time": 209.56,
+      "schema_valid": true,
+      "escalated": 1
+    },
+    {
+      "page_name": "ecom_amazon_books_015",
+      "cost": 0.042089,
+      "time": 46.22,
+      "schema_valid": true,
+      "escalated": 4
+    },
+    {
+      "page_name": "ecom_amazon_books_016",
+      "cost": 0.02035,
+      "time": 63.02,
+      "schema_valid": true,
+      "escalated": 2
+    }
+  ],
+  "finished_at": "2026-02-26T14:34:31.843426+00:00"
+}

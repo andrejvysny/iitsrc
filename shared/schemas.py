@@ -36,7 +36,11 @@ ECOM_SCHEMA = {
                 },
                 "required": ["key", "value"],
             },
-            "description": "Product specifications as key-value pairs",
+            "description": (
+                "Key product attributes (e.g. for books: Author, ISBN, Pages, Language, Publisher; "
+                "for electronics: Weight, Connectivity, Voltage; for clothing: Size, Material, Color). "
+                "Exclude transaction details like shipping, returns, or seller ratings."
+            ),
         },
     },
     "required": ["name", "price", "currency", "description", "availability"],
@@ -93,6 +97,56 @@ SCHEMA_KEYWORDS = {
     "ecommerce": ECOM_KEYWORDS,
     "realestate": REALESTATE_KEYWORDS,
 }
+
+def generate_schema_keywords(schema: dict) -> set[str]:
+    """Generate keywords from an arbitrary JSON schema for heuristic pruning.
+
+    Extracts words from property names, descriptions, and enum values.
+    Recurses into nested objects and array items.
+    """
+    keywords: set[str] = set()
+
+    def _extract_from_properties(props: dict) -> None:
+        for name, defn in props.items():
+            # Split property name on separators
+            for word in _split_name(name):
+                if len(word) > 2:
+                    keywords.add(word.lower())
+
+            if not isinstance(defn, dict):
+                continue
+
+            # Extract from description
+            desc = defn.get("description", "")
+            if desc:
+                for word in desc.split():
+                    clean = word.strip(".,;:()[]{}\"'").lower()
+                    if len(clean) > 2:
+                        keywords.add(clean)
+
+            # Collect enum values
+            for val in defn.get("enum", []):
+                if isinstance(val, str) and len(val) > 2:
+                    keywords.add(val.lower())
+
+            # Recurse into nested objects
+            if defn.get("type") == "object" and "properties" in defn:
+                _extract_from_properties(defn["properties"])
+
+            # Recurse into array items
+            items = defn.get("items", {})
+            if isinstance(items, dict):
+                if items.get("type") == "object" and "properties" in items:
+                    _extract_from_properties(items["properties"])
+
+    def _split_name(name: str) -> list[str]:
+        import re
+        return re.split(r"[_\-\s]+", name)
+
+    props = schema.get("properties", {})
+    _extract_from_properties(props)
+    return keywords
+
 
 def get_schema(domain: str) -> dict:
     """Get schema for domain ('ecommerce' or 'realestate')."""

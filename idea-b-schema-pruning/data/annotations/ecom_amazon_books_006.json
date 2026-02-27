@@ -1,0 +1,203 @@
+{
+  "data": {
+    "name": "The Lost Bookshop (Deluxe Edition)",
+    "price": 32.0,
+    "currency": "USD",
+    "brand": null,
+    "description": "‘The thing about books,’ she said ‘is that they help you to imagine a life bigger and better than you could ever dream of.’ The Echo of Old Books meets The Lost Apothecary in this evocative and charming novel full of mystery and secrets. – This deluxe hardback edition features: 📚 An exclusively designed full-color character art end papers 📚 A stunning foil-stamped case 📚 An exclusive sprayed edge design On a quiet street in Dublin, a lost bookshop is waiting to be found… For too long, Opaline, Martha and Henry have been the side characters in their own lives. But when a vanishing bookshop casts its spell, these three unsuspecting strangers will discover that their own stories are every bit as extraordinary as the ones found in the pages of their beloved books. And by unlocking the secrets of the shelves, they find themselves transported to a world of wonder… where nothing is as it seems.",
+    "rating": 4.4,
+    "availability": "in_stock",
+    "specs": [
+      {
+        "key": "Author",
+        "value": "Evie Woods"
+      },
+      {
+        "key": "Publisher",
+        "value": "One More Chapter"
+      },
+      {
+        "key": "Publication Date",
+        "value": "October 20, 2026"
+      },
+      {
+        "key": "Edition",
+        "value": "Deluxe edition"
+      },
+      {
+        "key": "Language",
+        "value": "English"
+      },
+      {
+        "key": "Print length",
+        "value": "448 pages"
+      },
+      {
+        "key": "ISBN-10",
+        "value": "0008835829"
+      },
+      {
+        "key": "ISBN-13",
+        "value": "978-0008835828"
+      },
+      {
+        "key": "Item Weight",
+        "value": "9.5 ounces"
+      },
+      {
+        "key": "Dimensions",
+        "value": "6.26 x 0.83 x 9.45 inches"
+      },
+      {
+        "key": "Format",
+        "value": "Hardcover"
+      }
+    ]
+  },
+  "domain": "ecommerce",
+  "page_name": "ecom_amazon_books_006",
+  "source_url": "https://www.amazon.com/Lost-Bookshop-Deluxe-charming-uplifting/dp/0008835829",
+  "agreement_scores": {
+    "name": 0.5,
+    "price": 1.0,
+    "currency": 1.0,
+    "brand": 1.0,
+    "description": 0.5,
+    "rating": 1.0,
+    "availability": 1.0,
+    "specs": 1.0
+  },
+  "per_model": {
+    "openrouter/deepseek/deepseek-v3.2": {
+      "response": {
+        "name": "The Lost Bookshop (Deluxe Edition): The most charming and uplifting novel for 2026 and the perfect gift for book lovers!",
+        "price": 32.0,
+        "currency": "USD",
+        "brand": null,
+        "description": "‘The thing about books,’ she said ‘is that they help you to imagine a life bigger and better than you could ever dream of.’ The Echo of Old Books meets The Lost Apothecary in this evocative and charming novel full of mystery and secrets. – This deluxe hardback edition features: 📚 An exclusively designed full-color character art end papers 📚 A stunning foil-stamped case 📚 An exclusive sprayed edge design On a quiet street in Dublin, a lost bookshop is waiting to be found… For too long, Opaline, Martha and Henry have been the side characters in their own lives. But when a vanishing bookshop casts its spell, these three unsuspecting strangers will discover that their own stories are every bit as extraordinary as the ones found in the pages of their beloved books. And by unlocking the secrets of the shelves, they find themselves transported to a world of wonder… where nothing is it seems.",
+        "rating": 4.4,
+        "availability": "in_stock",
+        "specs": [
+          {
+            "key": "Author",
+            "value": "Evie Woods"
+          },
+          {
+            "key": "Publisher",
+            "value": "One More Chapter"
+          },
+          {
+            "key": "Publication Date",
+            "value": "October 20, 2026"
+          },
+          {
+            "key": "Edition",
+            "value": "Deluxe edition"
+          },
+          {
+            "key": "Language",
+            "value": "English"
+          },
+          {
+            "key": "Print length",
+            "value": "448 pages"
+          },
+          {
+            "key": "ISBN-10",
+            "value": "0008835829"
+          },
+          {
+            "key": "ISBN-13",
+            "value": "978-0008835828"
+          },
+          {
+            "key": "Item Weight",
+            "value": "9.5 ounces"
+          },
+          {
+            "key": "Dimensions",
+            "value": "6.26 x 0.83 x 9.45 inches"
+          },
+          {
+            "key": "Format",
+            "value": "Hardcover"
+          }
+        ]
+      },
+      "raw_output": "{\n  \"name\": \"The Lost Bookshop (Deluxe Edition): The most charming and uplifting novel for 2026 and the perfect gift for book lovers!\",\n  \"price\": 32.00,\n  \"currency\": \"USD\",\n  \"brand\": null,\n  \"description\": \"‘The thing about books,’ she said ‘is that they help you to imagine a life bigger and better than you could ever dream of.’ The Echo of Old Books meets The Lost Apothecary in this evocative and charming novel full of mystery and secrets. – This deluxe hardback edition features: 📚 An exclusively designed full-color character art end papers 📚 A stunning foil-stamped case 📚 An exclusive sprayed edge design On a quiet street in Dublin, a lost bookshop is waiting to be found… For too long, Opaline, Martha and Henry have been the side characters in their own lives. But when a vanishing bookshop casts its spell, these three unsuspecting strangers will discover that their own stories are every bit as extraordinary as the ones found in the pages of their beloved books. And by unlocking the secrets of the shelves, they find themselves transported to a world of wonder… where nothing is it seems.\",\n  \"rating\": 4.4,\n  \"availability\": \"in_stock\",\n  \"specs\": [\n    {\n      \"key\": \"Author\",\n      \"value\": \"Evie Woods\"\n    },\n    {\n      \"key\": \"Publisher\",\n      \"value\": \"One More Chapter\"\n    },\n    {\n      \"key\": \"Publication Date\",\n      \"value\": \"October 20, 2026\"\n    },\n    {\n      \"key\": \"Edition\",\n      \"value\": \"Deluxe edition\"\n    },\n    {\n      \"key\": \"Language\",\n      \"value\": \"English\"\n    },\n    {\n      \"key\": \"Print length\",\n      \"value\": \"448 pages\"\n    },\n    {\n      \"key\": \"ISBN-10\",\n      \"value\": \"0008835829\"\n    },\n    {\n      \"key\": \"ISBN-13\",\n      \"value\": \"978-0008835828\"\n    },\n    {\n      \"key\": \"Item Weight\",\n      \"value\": \"9.5 ounces\"\n    },\n    {\n      \"key\": \"Dimensions\",\n      \"value\": \"6.26 x 0.83 x 9.45 inches\"\n    },\n    {\n      \"key\": \"Format\",\n      \"value\": \"Hardcover\"\n    }\n  ]\n}",
+      "execution_time": 47.91,
+      "tokens": 11718,
+      "cost": 0.003326,
+      "error": null
+    },
+    "qwen-2.5-72b-instruct": {
+      "response": {
+        "name": "The Lost Bookshop (Deluxe Edition)",
+        "price": 32.0,
+        "currency": "USD",
+        "brand": null,
+        "description": "The most charming and uplifting novel for 2026 and the perfect gift for book lovers! This deluxe hardback edition features exclusively designed full-color character art end papers, a stunning foil-stamped case, and an exclusive sprayed edge design. The story is set in Dublin and follows three strangers who discover that their own stories are every bit as extraordinary as the ones found in the pages of their beloved books.",
+        "rating": 4.4,
+        "availability": "in_stock",
+        "specs": [
+          {
+            "key": "Author",
+            "value": "Evie Woods"
+          },
+          {
+            "key": "Publication Date",
+            "value": "October 20, 2026"
+          },
+          {
+            "key": "Edition",
+            "value": "Deluxe edition"
+          },
+          {
+            "key": "Language",
+            "value": "English"
+          },
+          {
+            "key": "Print Length",
+            "value": "448 pages"
+          },
+          {
+            "key": "ISBN-10",
+            "value": "0008835829"
+          },
+          {
+            "key": "ISBN-13",
+            "value": "978-0008835828"
+          },
+          {
+            "key": "Item Weight",
+            "value": "9.5 ounces"
+          },
+          {
+            "key": "Dimensions",
+            "value": "6.26 x 0.83 x 9.45 inches"
+          }
+        ]
+      },
+      "raw_output": "{\n  \"name\": \"The Lost Bookshop (Deluxe Edition)\",\n  \"price\": 32.00,\n  \"currency\": \"USD\",\n  \"brand\": null,\n  \"description\": \"The most charming and uplifting novel for 2026 and the perfect gift for book lovers! This deluxe hardback edition features exclusively designed full-color character art end papers, a stunning foil-stamped case, and an exclusive sprayed edge design. The story is set in Dublin and follows three strangers who discover that their own stories are every bit as extraordinary as the ones found in the pages of their beloved books.\",\n  \"rating\": 4.4,\n  \"availability\": \"in_stock\",\n  \"specs\": [\n    {\n      \"key\": \"Author\",\n      \"value\": \"Evie Woods\"\n    },\n    {\n      \"key\": \"Publication Date\",\n      \"value\": \"October 20, 2026\"\n    },\n    {\n      \"key\": \"Edition\",\n      \"value\": \"Deluxe edition\"\n    },\n    {\n      \"key\": \"Language\",\n      \"value\": \"English\"\n    },\n    {\n      \"key\": \"Print Length\",\n      \"value\": \"448 pages\"\n    },\n    {\n      \"key\": \"ISBN-10\",\n      \"value\": \"0008835829\"\n    },\n    {\n      \"key\": \"ISBN-13\",\n      \"value\": \"978-0008835828\"\n    },\n    {\n      \"key\": \"Item Weight\",\n      \"value\": \"9.5 ounces\"\n    },\n    {\n      \"key\": \"Dimensions\",\n      \"value\": \"6.26 x 0.83 x 9.45 inches\"\n    }\n  ]\n}",
+      "execution_time": 17.86,
+      "tokens": 11828,
+      "cost": 0.0,
+      "error": null
+    }
+  },
+  "escalated_fields": [
+    "name",
+    "description"
+  ],
+  "validation": {
+    "schema_valid": true,
+    "rules_passed": true,
+    "source_grounded": true,
+    "hallucination_rate": 0.167,
+    "issues": []
+  },
+  "json_ld": {},
+  "source_text_length": 28765,
+  "total_execution_time": 71.92,
+  "total_cost_estimate": 0.021503
+}
