@@ -18,8 +18,16 @@ logging.getLogger("llama_cpp").setLevel(logging.ERROR)
 
 @contextmanager
 def _suppress_stderr():
-    """Suppress C-level stderr output (ggml_metal_init bf16 warnings)."""
-    stderr_fd = sys.stderr.fileno()
+    """Suppress C-level stderr output (ggml_metal_init bf16 warnings).
+
+    Falls back to no-op in environments without real file descriptors (Colab/Jupyter).
+    """
+    try:
+        stderr_fd = sys.stderr.fileno()
+    except Exception:
+        yield
+        return
+
     saved_fd = os.dup(stderr_fd)
     devnull = os.open(os.devnull, os.O_WRONLY)
     os.dup2(devnull, stderr_fd)
